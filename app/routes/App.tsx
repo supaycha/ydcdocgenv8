@@ -36,7 +36,7 @@ function AppContents() {
 			rowGap={2}
 		>
 			<>
-				<Stack
+				{/* <Stack
 					id="toplevelstack-row1"
 					// direction="row"
 					sx={{
@@ -55,7 +55,7 @@ function AppContents() {
 					/>
 					<HBA1CButton
 					/>
-				</Stack>
+				</Stack> */}
 			</>
 		</Stack>
 	);
