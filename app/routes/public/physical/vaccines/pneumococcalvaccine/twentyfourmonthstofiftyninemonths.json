@@ -1,0 +1,782 @@
+{
+  "riskConditions": [
+    {
+      "id": "Cerebrospinal fluid leak",
+      "type": "general",
+      "checked": false
+    },
+    {
+      "id": "Chronic heart disease, particularly cyanotic congenital heart disease and cardiac failure",
+      "type": "general",
+      "checked": false
+    },
+    {
+      "id": "Chronic kidney disease, excluding maintenance dialysis or nephrotic syndrome",
+      "type": "general",
+      "checked": false
+    },
+    {
+      "id": "Chronic liver disease",
+      "type": "general",
+      "checked": false
+    },
+    {
+      "id": "Chronic lung disease, including moderate persistent or severe persistent asthma",
+      "type": "general",
+      "checked": false
+    },
+    {
+      "id": "Cochlear implant",
+      "type": "general",
+      "checked": false
+    },
+    {
+      "id": "Diabetes mellitus",
+      "type": "general",
+      "checked": false
+    },
+    {
+      "id": "Maintenance dialysis or nephrotic syndrome",
+      "type": "immunocompromising",
+      "checked": false
+    },
+    {
+      "id": "Congenital or acquired asplenia, or splenic dysfunction",
+      "type": "immunocompromising",
+      "checked": false
+    },
+    {
+      "id": "Congenital or acquired immunodeficiency",
+      "type": "immunocompromising",
+      "checked": false
+    },
+    {
+      "id": "Diseases or conditions treated with immunosuppressive drugs or radiation therapy",
+      "type": "immunocompromising",
+      "checked": false
+    },
+    {
+      "id": "HIV infection",
+      "type": "immunocompromising",
+      "checked": false
+    },
+    {
+      "id": "Sickle cell disease or other hemoglobinopathies",
+      "type": "immunocompromising",
+      "checked": false
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "0vaccinestaken",
+      "possibleNextVaccines": [
+        {
+          "id": "PCV13/PCV15",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "administer today",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "wait at least 8 weeks and administer PCV13/PCV15 or PCV20",
+              "dateDue": null
+            },
+            {
+              "id": "any risk condition",
+              "value": false,
+              "pre": "administer today",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        },
+        {
+          "id": "PCV20",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "administer today",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "wait at least 8 weeks and administer PCV13/PCV15 or PCV20",
+              "dateDue": null
+            },
+            {
+              "id": "any risk condition",
+              "value": false,
+              "pre": "administer today",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1vaccinetakenandwasbefore12mosold",
+      "possibleNextVaccines": [
+        {
+          "id": "PCV13/PCV15",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "administer today",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        },
+        {
+          "id": "PCV20",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "administer today",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1vaccinetakenandwasafter12mosoldandwasbefore24mosoldanddose1atleast8weeksago",
+      "possibleNextVaccines": [
+        {
+          "id": "PCV13/PCV15",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "administer today",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        },
+        {
+          "id": "PCV20",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "administer today",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1vaccinetakenandwasafter12mosoldandwasbefore24mosoldanddose1lessthan8weeksago",
+      "possibleNextVaccines": [
+        {
+          "id": "PCV13/PCV15",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "at least 8 weeks after your last PCV13/PCV15 or PCV20 vaccine",
+              "dayjsInJsonForm": {
+                "value": 8,
+                "unit": "weeks"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        },
+        {
+          "id": "PCV20",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "at least 8 weeks after your last PCV13/PCV15 or PCV20 vaccine",
+              "dayjsInJsonForm": {
+                "value": 8,
+                "unit": "weeks"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1vaccinetakenandwasafter12mosoldandafter24mosold",
+      "possibleNextVaccines": [
+        {
+          "id": "PCV13/PCV15",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "no vaccine recommendations at this time",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        },
+        {
+          "id": "PCV20",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "no vaccine recommendations at this time",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1vaccinetakenandwasbefore24mosold",
+      "possibleNextVaccines": [
+        {
+          "id": "PCV13/PCV15",
+          "statements": [
+            {
+              "id": "any risk condition",
+              "value": false,
+              "pre": "administer today",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "wait at least 8 weeks and administer PCV13/PCV15 or PCV20",
+              "dateDue": null
+            }
+          ]
+        },
+        {
+          "id": "PCV20",
+          "statements": [
+            {
+              "id": "any risk condition",
+              "value": false,
+              "pre": "administer today",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "wait at least 8 weeks and administer PCV13/PCV15 or PCV20",
+              "dateDue": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2vaccinetakenandbothbefore12mosold",
+      "possibleNextVaccines": [
+        {
+          "id": "PCV13/PCV15",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "administer today",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        },
+        {
+          "id": "PCV20",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "administer today",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2vaccinetakenanddose1before12mosoldanddose2after12mosoldanddose2before24mosold",
+      "possibleNextVaccines": [
+        {
+          "id": "PCV13/PCV15",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "administer today",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        },
+        {
+          "id": "PCV20",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "administer today",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2vaccinetakenanddose1before12mosoldanddose2after12mosoldanddose2after24mosold",
+      "possibleNextVaccines": [
+        {
+          "id": "PCV13/PCV15",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "no vaccine recommendations at this time",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        },
+        {
+          "id": "PCV20",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "no vaccine recommendations at this time",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2vaccinetakenanddose1after12mosold",
+      "possibleNextVaccines": [
+        {
+          "id": "PCV13/PCV15",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "no vaccine recommendations at this time",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        },
+        {
+          "id": "PCV20",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "no vaccine recommendations at this time",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2vaccinetakenandbothbefore24mosold",
+      "possibleNextVaccines": [
+        {
+          "id": "PCV13/PCV15",
+          "statements": [
+            {
+              "id": "any risk condition",
+              "value": false,
+              "pre": "administer today",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "wait at least 8 weeks and administer PCV13/PCV15 or PCV20",
+              "dateDue": null
+            }
+          ]
+        },
+        {
+          "id": "PCV20",
+          "statements": [
+            {
+              "id": "any risk condition",
+              "value": false,
+              "pre": "administer today",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "wait at least 8 weeks and administer PCV13/PCV15 or PCV20",
+              "dateDue": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3vaccinetakenandatleastoneatorafter12mosold",
+      "possibleNextVaccines": [
+        {
+          "id": "PCV13/PCV15",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "administer today",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        },
+        {
+          "id": "PCV20",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "administer today",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3vaccinetakenandallbefore12mosold",
+      "possibleNextVaccines": [
+        {
+          "id": "PCV13/PCV15",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "no vaccine recommendations at this time",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            },
+            {
+              "id": "any risk condition",
+              "value": false,
+              "pre": "administer today",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        },
+        {
+          "id": "PCV20",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "no vaccine recommendations at this time",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            },
+            {
+              "id": "any risk condition",
+              "value": false,
+              "pre": "administer today",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4vaccinetakenandanypcv20",
+      "possibleNextVaccines": [
+        {
+          "id": "PCV13/PCV15",
+          "statements": [
+            {
+              "id": "any risk condition",
+              "value": false,
+              "pre": "no vaccine recommendations at this time",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        },
+        {
+          "id": "PCV20",
+          "statements": [
+            {
+              "id": "any risk condition",
+              "value": false,
+              "pre": "no vaccine recommendations at this time",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4vaccinetakenandriskconditionsotherthanimmunocompromisingandanyppsv23",
+      "possibleNextVaccines": [
+        {
+          "id": "PCV13/PCV15",
+          "statements": [
+            {
+              "id": "any risk condition other than an immunocompromising condition",
+              "value": false,
+              "pre": "no vaccine recommendations at this time",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        },
+        {
+          "id": "PCV20",
+          "statements": [
+            {
+              "id": "any risk condition other than an immunocompromising condition",
+              "value": false,
+              "pre": "no vaccine recommendations at this time",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4vaccinetakenandriskconditionsotherthanimmunocompromisingandnoppsv23",
+      "possibleNextVaccines": [
+        {
+          "id": "PCV20",
+          "statements": [
+            {
+              "id": "any risk condition other than an immunocompromising condition",
+              "value": false,
+              "pre": "at least 8 weeks after your last vaccine",
+              "dayjsInJsonForm": {
+                "value": 8,
+                "unit": "weeks"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        },
+        {
+          "id": "PPSV23",
+          "statements": [
+            {
+              "id": "any risk condition other than an immunocompromising condition",
+              "value": false,
+              "pre": "at least 8 weeks after your last vaccine",
+              "dayjsInJsonForm": {
+                "value": 8,
+                "unit": "weeks"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4vaccinetakenandimmunocompromisingandanyppsv23",
+      "possibleNextVaccines": [
+        {
+          "id": "PCV20",
+          "statements": [
+            {
+              "id": "who have an immunocompromising condition",
+              "value": false,
+              "pre": "at least 5 years after your last PPSV23 vaccine specifically",
+              "dayjsInJsonForm": {
+                "value": 5,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        },
+        {
+          "id": "PPSV23",
+          "statements": [
+            {
+              "id": "who have an immunocompromising condition",
+              "value": false,
+              "pre": "at least 5 years after your last PPSV23 vaccine specifically",
+              "dayjsInJsonForm": {
+                "value": 5,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4vaccinetakenandimmunocompromisingandnoppsv23",
+      "possibleNextVaccines": [
+        {
+          "id": "PCV20",
+          "statements": [
+            {
+              "id": "who have an immunocompromising condition",
+              "value": false,
+              "pre": "at least 8 weeks after your last vaccine",
+              "dayjsInJsonForm": {
+                "value": 8,
+                "unit": "weeks"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        },
+        {
+          "id": "PPSV23",
+          "statements": [
+            {
+              "id": "who have an immunocompromising condition",
+              "value": false,
+              "pre": "at least 8 weeks after your last vaccine",
+              "dayjsInJsonForm": {
+                "value": 8,
+                "unit": "weeks"
+              },
+              "post": "another PCV20 or PPSV23 at least 5 years after dose in pre then complete",
+              "dateDue": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

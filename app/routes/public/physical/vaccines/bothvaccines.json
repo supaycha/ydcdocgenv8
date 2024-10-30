@@ -1,0 +1,18 @@
+[
+  {
+    "id": "Influenza",
+	"type": "bothvaccine",
+    "checked": false,
+	"linkChecked": true,
+    "dateReceived": null,
+    "dateDue": null
+  },
+  {
+    "id": "Tetanus",
+	"type": "bothvaccine",
+    "checked": false,
+	"linkChecked": true,
+    "dateReceived": null,
+    "dateDue": null
+  }
+]

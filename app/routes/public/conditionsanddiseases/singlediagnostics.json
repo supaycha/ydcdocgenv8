@@ -1,0 +1,100 @@
+[
+  {
+    "id": "Diabetes",
+    "type": "singlediagnostic",
+    "checked": false,
+	"linkChecked": true,
+    "toggleButtonValue": "",
+    "toggleOptions": [
+      {
+        "id": "Next Visit W/ Lab"
+      }
+    ],
+    "dateReceived": null,
+    "dateDue": null
+  },
+  {
+    "id": "Lipid Panel",
+    "type": "singlediagnostic",
+    "checked": false,
+	"linkChecked": true,
+	"toggleButtonValue": "",
+    "toggleOptions": [
+      {
+        "id": "Next Visit W/ Lab"
+      }
+    ],
+    "dateReceived": null,
+    "dateDue": null
+  },
+  {
+    "id": "Mammogram",
+    "type": "singlediagnostic",
+    "checked": false,
+	"linkChecked": true,
+	"toggleButtonValue": "",
+    "toggleOptions": [
+      {
+        "id": "PRN"
+      },
+      {
+        "id": "DUE NOW"
+      }
+    ],
+    "gender": 2,
+    "dateReceived": null,
+    "dateDue": null
+  },
+  {
+    "id": "DEXA Scan",
+    "type": "singlediagnostic",
+    "checked": false,
+	"linkChecked": true,
+    "toggleButtonValue": "",
+    "toggleOptions": [
+      {
+        "id": "PRN"
+      },
+      {
+        "id": "DUE NOW"
+      }
+    ],
+    "dateReceived": null,
+    "dateDue": null
+  },
+  {
+    "id": "PSA",
+    "type": "singlediagnostic",
+    "checked": false,
+	"linkChecked": true,
+	"toggleButtonValue": "",
+    "toggleOptions": [
+      {
+        "id": "PRN"
+      },
+      {
+        "id": "DUE NOW"
+      }
+    ],
+    "gender": 1,
+    "dateReceived": null,
+    "dateDue": null
+  },
+  {
+    "id": "Vision/Glaucoma",
+    "type": "singlediagnostic",
+    "checked": false,
+	"linkChecked": true,
+	"toggleButtonValue": "",
+    "toggleOptions": [
+      {
+        "id": "PRN"
+      },
+      {
+        "id": "DUE NOW"
+      }
+    ],
+    "dateReceived": null,
+    "dateDue": null
+  }
+]

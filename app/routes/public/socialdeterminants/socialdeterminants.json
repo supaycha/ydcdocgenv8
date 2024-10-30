@@ -1,0 +1,681 @@
+[
+  {
+    "id": "schooling",
+	"label": "Schooling",
+    "questions": [
+      {
+        "text": "Are you currently having any issues with daily required reading, such as work documents or road signs with text on them?",
+        "code": {
+          "id": "Z55.0",
+          "description": "Illiteracy and low-level literacy",
+          "checked": false
+        }
+      },
+      {
+        "text": "Are you unable to attend school?",
+        "code": {
+          "id": "Z55.1",
+          "description": "Schooling unavailable and unattainable",
+          "checked": false
+        }
+      },
+      {
+        "text": "Have you been failing any exams at school recently?",
+        "code": {
+          "id": "Z55.2",
+          "description": "Failed school examinations",
+          "checked": false
+        }
+      },
+      {
+        "text": "Separate from grades, do you feel like you are generally not doing well at school?",
+        "code": {
+          "id": "Z55.3",
+          "description": "Underachievement in school",
+          "checked": false
+        }
+      }
+    ]
+  },
+  {
+    "id": "employmentandunemployment",
+	"label": "Employment and Unemployment",
+    "questions": [
+      {
+        "text": "Are you being sexually harassed at your place of work?",
+        "code": {
+          "id": "Z56.81",
+          "description": "Sexual harassment on the job",
+          "checked": false
+        }
+      },
+      {
+        "text": "Are you currently in the military?",
+        "code": {
+          "id": "Z56.82",
+          "description": "Military deployment status",
+          "checked": false
+        }
+      }
+    ]
+  },
+  {
+    "id": "riskfactorsatwork",
+	"label": "Risk Factors at Work",
+    "questions": [
+      {
+        "text": "Check all the risks that currently apply to your environment while on the job:",
+        "codes": [
+          {
+            "text": "Noise",
+            "code": {
+              "id": "Z57.0",
+              "description": "Occupational exposure to noise",
+              "checked": false
+            }
+          },
+          {
+            "text": "Dust",
+            "code": {
+              "id": "Z57.2",
+              "description": "Occupational exposure to dust",
+              "checked": false
+            }
+          },
+          {
+            "text": "Being around co-workers smoking",
+            "code": {
+              "id": "Z57.31",
+              "description": "Occupational exposure to environmental tobacco smoke",
+              "checked": false
+            }
+          },
+          {
+            "text": "Toxic agents in agriculture (pesticides)",
+            "code": {
+              "id": "Z57.4",
+              "description": "Occupational exposure to toxic agents in agriculture",
+              "checked": false
+            }
+          },
+          {
+            "text": "Toxic agents in other industries (silica)",
+            "code": {
+              "id": "Z57.5",
+              "description": "Occupational exposure to toxic agents in other industries",
+              "checked": false
+            }
+          },
+          {
+            "text": "Extreme temperature",
+            "code": {
+              "id": "Z57.6",
+              "description": "Occupational exposure to extreme temperature",
+              "checked": false
+            }
+          },
+          {
+            "text": "Vibration",
+            "code": {
+              "id": "Z57.7",
+              "description": "Occupational exposure to vibration",
+              "checked": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "utilitiesathome",
+	"label": "Utilities at Home",
+    "questions": [
+      {
+        "text": "Do you lack access to drinking water at your current home?",
+        "code": {
+          "id": "Z58.6",
+          "description": "Inadequate drinking-water supply",
+          "checked": false
+        }
+      },
+      {
+        "text": "Do you lack all three of the following services: internet access, telephone access, and access to all utilities?",
+        "code": {
+          "id": "Z58.81",
+          "description": "Basic services unavailable in physical environment",
+          "checked": false
+        }
+      }
+    ]
+  },
+  {
+    "id": "homesecurity",
+	"label": "Home Security",
+    "questions": [
+      {
+        "text": "Are you currently homeless, but are at least able to live in a building such as a hotel or homeless shelter?",
+        "code": {
+          "id": "Z59.01",
+          "description": "Sheltered homelessness",
+          "checked": false
+        }
+      },
+      {
+        "text": "Are you currently homeless and reside outside of a building such as a hotel or homeless shelter?",
+        "code": {
+          "id": "Z59.02",
+          "description": "Unsheltered homelessness",
+          "checked": false
+        }
+      },
+      {
+        "text": "Check the following parts of your home that are not acceptable:",
+        "codes": [
+          {
+            "text": "Inadequate housing environmental temperature",
+            "code": {
+              "id": "Z59.11",
+              "description": "Inadequate housing environmental temperature",
+              "checked": false
+            }
+          },
+          {
+            "text": "Inadequate housing utilities",
+            "code": {
+              "id": "Z59.12",
+              "description": "Inadequate housing utilities",
+              "checked": false
+            }
+          },
+          {
+            "text": "Other inadequate housing (pest infestation, restriction of space, technical defects in home preventing adequate care)",
+            "code": {
+              "id": "Z59.19",
+              "description": "Other inadequate housing",
+              "checked": false
+            }
+          }
+        ]
+      },
+      {
+        "text": "Do you have any outstanding issues with your landlord, if renting, or any neighbors?",
+        "code": {
+          "id": "Z59.2",
+          "description": "Discord with neighbors, lodgers, and landlord",
+          "checked": false
+        }
+      },
+      {
+        "text": "Are you unable to afford food?",
+        "code": {
+          "id": "Z59.41",
+          "description": "Food insecurity",
+          "checked": false
+        }
+      },
+      {
+        "text": "Are you in poverty?",
+        "code": {
+          "id": "Z59.5",
+          "description": "Extreme poverty",
+          "checked": false
+        }
+      },
+      {
+        "text": "Do you have low income?",
+        "code": {
+          "id": "Z59.6",
+          "description": "Low income",
+          "checked": false
+        }
+      },
+      {
+        "text": "Do you receive insurance and/or welfare from federal services and feel it is not enough to live off of?",
+        "code": {
+          "id": "Z59.7",
+          "description": "Insufficient social insurance and welfare support",
+          "checked": false
+        }
+      },
+      {
+        "text": "Are you in danger of losing your current home?",
+        "code": {
+          "id": "Z59.811",
+          "description": "Housing instability with risk of homelessness",
+          "checked": false
+        }
+      },
+      {
+        "text": "Do you have any issues with transportation that you need to survive in your current situation?",
+        "code": {
+          "id": "Z59.82",
+          "description": "Transportation insecurity",
+          "checked": false
+        }
+      },
+      {
+        "text": "Are you facing general financial issues?",
+        "code": {
+          "id": "Z59.86",
+          "description": "Financial insecurity",
+          "checked": false
+        }
+      },
+      {
+        "text": "Are you unable to afford the general materials you require to live comfortably?",
+        "code": {
+          "id": "Z59.87",
+          "description": "Material hardship due to limited financial resources, not elsewhere classified",
+          "checked": false
+        }
+      }
+    ]
+  },
+  {
+    "id": "socialenvironment",
+	"label": "Social Environment",
+    "questions": [
+      {
+        "text": "Are you having issues transitioning to the next phase of your life, whether it be from high school to living alone or from full-time work to retirement?",
+        "code": {
+          "id": "Z60.0",
+          "description": "Problems of adjustment to life-cycle transitions",
+          "checked": false
+        }
+      },
+      {
+        "text": "Are you struggling with living alone?",
+        "code": {
+          "id": "Z60.2",
+          "description": "Problems related to living alone",
+          "checked": false
+        }
+      },
+      {
+        "text": "Are you struggling to adapt to American life?",
+        "code": {
+          "id": "Z60.3",
+          "description": "Acculturation difficulty",
+          "checked": false
+        }
+      },
+      {
+        "text": "Are you currently facing social problems for your immediate social groups?",
+        "code": {
+          "id": "Z60.4",
+          "description": "Social exclusion and rejection",
+          "checked": false
+        }
+      },
+      {
+        "text": "Are you being discriminated against or persecuted against?",
+        "code": {
+          "id": "Z60.5",
+          "description": "Target of (perceived) adverse discrimination and persecution",
+          "checked": false
+        }
+      }
+    ]
+  },
+  {
+    "id": "upbringing",
+	"label": "Upbringing",
+    "questions": [
+      {
+        "text": "Did you have inadequate parental supervision and control as a child?",
+        "code": {
+          "id": "Z62.0",
+          "description": "Inadequate parental supervision and control",
+          "checked": false
+        }
+      },
+      {
+        "text": "Were you overprotected as a child?",
+        "code": {
+          "id": "Z62.1",
+          "description": "Parental overprotection",
+          "checked": false
+        }
+      },
+      {
+        "text": "Were you brought up away from your parents in welfare custody? ",
+        "code": {
+          "id": "Z62.21",
+          "description": "Child in welfare custody",
+          "checked": false
+        }
+      },
+      {
+        "text": "Were you brought up away from your parents in institutional upbringing?",
+        "code": {
+          "id": "Z62.22",
+          "description": "Institutional upbringing",
+          "checked": false
+        }
+      },
+      {
+        "text": "Were you brought up away from your parents in custody of non-parental relative?",
+        "code": {
+          "id": "Z62.23",
+          "description": "Child in custody of non-parental relative",
+          "checked": false
+        }
+      },
+      {
+        "text": "Were you brought up away from your parents in custody of non-relative guardian?",
+        "code": {
+          "id": "Z62.24",
+          "description": "Child in custody of non-relative guardian",
+          "checked": false
+        }
+      },
+      {
+        "text": "Were you ever treated in hostility or scapegoated as a child?",
+        "code": {
+          "id": "Z62.3",
+          "description": "Hostility towards and scapegoating of child",
+          "checked": false
+        }
+      },
+      {
+        "text": "Were you ever treated inappropriately through parental pressure?",
+        "code": {
+          "id": "Z62.6",
+          "description": "Inappropriate (excessive) parental pressure",
+          "checked": false
+        }
+      },
+      {
+        "text": "Check any types of abuse applicable to yourself:",
+        "codes": [
+          {
+            "text": "Physical and sexual abuse in childhood",
+            "code": {
+              "id": "Z62.810",
+              "description": "Physical and sexual abuse in childhood",
+              "checked": false
+            }
+          },
+          {
+            "text": "Psychological abuse in childhood",
+            "code": {
+              "id": "Z62.811",
+              "description": "Psychological abuse in childhood",
+              "checked": false
+            }
+          },
+          {
+            "text": "Neglect in childhood",
+            "code": {
+              "id": "Z62.812",
+              "description": "Neglect in childhood",
+              "checked": false
+            }
+          },
+          {
+            "text": "Forced labor or sexual exploitation in childhood",
+            "code": {
+              "id": "Z62.813",
+              "description": "Forced labor or sexual exploitation in childhood",
+              "checked": false
+            }
+          },
+          {
+            "text": "Child financial abuse",
+            "code": {
+              "id": "Z62.814",
+              "description": "Child financial abuse",
+              "checked": false
+            }
+          },
+          {
+            "text": "Intimate partner abuse in childhood",
+            "code": {
+              "id": "Z62.815",
+              "description": "Intimate partner abuse in childhood",
+              "checked": false
+            }
+          }
+        ]
+      },
+      {
+        "text": "Check any applicable conflict in your family:",
+        "codes": [
+          {
+            "text": "Parent-biological child conflict",
+            "code": {
+              "id": "Z62.820",
+              "description": "Parent-biological child conflict",
+              "checked": false
+            }
+          },
+          {
+            "text": "Parent-adopted child conflict",
+            "code": {
+              "id": "Z62.821",
+              "description": "Parent-adopted child conflict",
+              "checked": false
+            }
+          },
+          {
+            "text": "Parent-foster child conflict",
+            "code": {
+              "id": "Z62.822",
+              "description": "Parent-foster child conflict",
+              "checked": false
+            }
+          },
+          {
+            "text": "Parent-step child conflict",
+            "code": {
+              "id": "Z62.823",
+              "description": "Parent-step child conflict",
+              "checked": false
+            }
+          },
+          {
+            "text": "Non-parental relative-child conflict",
+            "code": {
+              "id": "Z62.831",
+              "description": "Non-parental relative-child conflict",
+              "checked": false
+            }
+          },
+          {
+            "text": "Non-relative guardian-child conflict",
+            "code": {
+              "id": "Z62.832",
+              "description": "Non-relative guardian-child conflict",
+              "checked": false
+            }
+          },
+          {
+            "text": "Group home staff-child conflict",
+            "code": {
+              "id": "Z62.833",
+              "description": "Group home staff-child conflict",
+              "checked": false
+            }
+          },
+          {
+            "text": "Parent-child estrangement NEC",
+            "code": {
+              "id": "Z62.890",
+              "description": "Parent-child estrangement NEC",
+              "checked": false
+            }
+          },
+          {
+            "text": "Sibling rivalry",
+            "code": {
+              "id": "Z62.891",
+              "description": "Sibling rivalry",
+              "checked": false
+            }
+          },
+          {
+            "text": "Runaway [from current living environment]",
+            "code": {
+              "id": "Z62.892",
+              "description": "Runaway [from current living environment]",
+              "checked": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "currentstressinthefamily",
+	"label": "Current Stress in the Family",
+    "questions": [
+      {
+        "text": "Check any applicable:",
+        "codes": [
+          {
+            "text": "Problems in relationship with spouse or partner",
+            "code": {
+              "id": "Z63.0",
+              "description": "Problems in relationship with spouse or partner",
+              "checked": false
+            }
+          },
+          {
+            "text": "Problems in relationship with in-laws",
+            "code": {
+              "id": "Z63.1",
+              "description": "Problems in relationship with in-laws",
+              "checked": false
+            }
+          }
+        ]
+      },
+      {
+        "text": "Are any family members currently out on military deployment?",
+        "code": {
+          "id": "Z63.31",
+          "description": "Absence of family member due to military deployment",
+          "checked": false
+        }
+      },
+      {
+        "text": "Are any family members stressed out now due to a current return from military deployment?",
+        "code": {
+          "id": "Z63.71",
+          "description": "Stress on family due to return of family member from military deployment",
+          "checked": false
+        }
+      },
+      {
+        "text": "Are any family members absent for any other reasons?",
+        "code": {
+          "id": "Z63.32",
+          "description": "Other absence of family member",
+          "checked": false
+        }
+      },
+      {
+        "text": "Are any family members recently deceased?",
+        "code": {
+          "id": "Z63.4",
+          "description": "Disappearance and death of family member",
+          "checked": false
+        }
+      },
+      {
+        "text": "Are any family members now absent due to a recent marital separation or divorce?",
+        "code": {
+          "id": "Z63.5",
+          "description": "Disruption of family by separation and divorce",
+          "checked": false
+        }
+      },
+      {
+        "text": "Is a primary family member currently dependent on you in the same home?",
+        "code": {
+          "id": "Z63.6",
+          "description": "Dependent relative needing care at home",
+          "checked": false
+        }
+      },
+      {
+        "text": "Are there any current issues with alcoholism and/or drug addiction in the family?",
+        "code": {
+          "id": "Z63.72",
+          "description": "Alcoholism and drug addiction in family",
+          "checked": false
+        }
+      }
+    ]
+  },
+  {
+    "id": "psychosocial",
+	"label": "Psychosocial",
+    "questions": [
+      {
+        "text": "Is there an unwanted pregnancy in the family?",
+        "code": {
+          "id": "Z64.0",
+          "description": "Problems related to unwanted pregnancy",
+          "checked": false
+        }
+      },
+      {
+        "text": "Are there issues with multiparity?",
+        "code": {
+          "id": "Z64.1",
+          "description": "Problems related to multiparity",
+          "checked": false
+        }
+      },
+      {
+        "text": "Are you having issues with social workers?",
+        "code": {
+          "id": "Z64.4",
+          "description": "Discord with counselors",
+          "checked": false
+        }
+      },
+      {
+        "text": "Are you having any issues with convictions in criminal proceedings without imprisonment?",
+        "code": {
+          "id": "Z65.0",
+          "description": "Conviction in civil and criminal proceedings without imprisonment",
+          "checked": false
+        }
+      },
+      {
+        "text": "Are you having any issues with imprisonment and other incarceration?",
+        "code": {
+          "id": "Z65.1",
+          "description": "Imprisonment and other incarceration",
+          "checked": false
+        }
+      },
+      {
+        "text": "Are you having any issues with release from prison?",
+        "code": {
+          "id": "Z65.2",
+          "description": "Problems related to release from prison",
+          "checked": false
+        }
+      },
+      {
+        "text": "Are you a victim of crime and terrorism?",
+        "code": {
+          "id": "Z65.4",
+          "description": "Victim of crime and terrorism",
+          "checked": false
+        }
+      },
+      {
+        "text": "Are you exposed to disaster, war, and other hostilities?",
+        "code": {
+          "id": "Z65.5",
+          "description": "Exposure to disaster, war, and other hostilities",
+          "checked": false
+        }
+      }
+    ]
+  }
+]

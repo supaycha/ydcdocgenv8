@@ -1,0 +1,128 @@
+[
+  {
+    "id": "alcohol",
+    "toggleButtonValue": "NEVER USED",
+    "toggleOptions": [
+      {
+        "id": "CURRENT"
+      },
+      {
+        "id": "FORMER"
+      },
+      {
+        "id": "NEVER USED"
+      }
+    ],
+    "timesperday": {
+      "id": "timesperday",
+      "label": "Times Per Day",
+      "value": ""
+    },
+    "timesperyear": {
+      "id": "timesperyear",
+      "label": "Times Per Year",
+      "value": ""
+    }
+  },
+  {
+    "id": "smoking",
+    "toggleButtonValue": "NEVER USED",
+    "toggleOptions": [
+      {
+        "id": "CURRENT"
+      },
+      {
+        "id": "FORMER"
+      },
+      {
+        "id": "NEVER USED"
+      }
+    ],
+    "timesperday": {
+      "id": "timesperday",
+      "label": "Times Per Day",
+      "value": ""
+    },
+    "timesperyear": {
+      "id": "timesperyear",
+      "label": "Times Per Year",
+      "value": ""
+    }
+  },
+  {
+    "id": "marijuana",
+    "toggleButtonValue": "NEVER USED",
+    "toggleOptions": [
+      {
+        "id": "CURRENT"
+      },
+      {
+        "id": "FORMER"
+      },
+      {
+        "id": "NEVER USED"
+      }
+    ],
+    "attemptedrehab": {
+      "id": "attemptedrehab",
+      "label": "Attempted Rehab",
+      "value": false
+    },
+    "hospitalized": {
+      "id": "hospitalized",
+      "label": "Hospitalized",
+      "value": false
+    }
+  },
+  {
+    "id": "cocaine",
+    "toggleButtonValue": "NEVER USED",
+    "toggleOptions": [
+      {
+        "id": "CURRENT"
+      },
+      {
+        "id": "FORMER"
+      },
+      {
+        "id": "NEVER USED"
+      }
+    ],
+    "attemptedrehab": {
+      "id": "attemptedrehab",
+      "label": "Attempted Rehab",
+      "value": false
+    },
+    "hospitalized": {
+      "id": "hospitalized",
+      "label": "Hospitalized",
+      "value": false
+    }
+  },
+  {
+    "id": "heroin",
+    "toggleButtonValue": "NEVER USED",
+    "toggleOptions": [
+      {
+        "id": "CURRENT"
+      },
+      {
+        "id": "FORMER"
+      },
+      {
+        "id": "NEVER USED"
+      }
+    ],
+    "attemptedrehab": {
+      "id": "attemptedrehab",
+      "label": "Attempted Rehab",
+      "value": false
+    },
+    "hospitalized": {
+      "id": "hospitalized",
+      "label": "Hospitalized",
+      "value": false
+    }
+  }
+]
+

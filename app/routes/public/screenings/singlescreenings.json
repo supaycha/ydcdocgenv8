@@ -1,0 +1,171 @@
+[
+  {
+    "id": "Diabetes",
+    "type": "singlescreening",
+    "checked": false,
+	"linkChecked": true,
+    "toggleButtonValue": "",
+    "toggleOptions": [
+      {
+        "id": "Next Visit W/ Lab"
+      }
+    ],
+    "dateReceived": null,
+    "dateDue": null
+  },
+  {
+    "id": "Lipid Panel",
+    "type": "singlescreening",
+    "checked": false,
+	"linkChecked": true,
+    "toggleButtonValue": "",
+    "toggleOptions": [
+      {
+        "id": "Next Visit W/ Lab"
+      }
+    ],
+    "dateReceived": null,
+    "dateDue": null
+  },
+  {
+    "id": "Mammogram",
+    "type": "singlescreening",
+    "checked": false,
+	"linkChecked": true,
+	"toggleButtonValue": "",
+    "toggleOptions": [
+      {
+        "id": "PRN"
+      },
+      {
+        "id": "DUE NOW"
+      }
+    ],
+    "gender": 2,
+    "dateReceived": null,
+    "dateDue": null
+  },
+  {
+    "id": "DEXA Scan",
+    "type": "singlescreening",
+    "checked": false,
+	"linkChecked": true,
+	"toggleButtonValue": "",
+    "toggleOptions": [
+      {
+        "id": "PRN"
+      },
+      {
+        "id": "DUE NOW"
+      }
+    ],
+    "dateReceived": null,
+    "dateDue": null
+  },
+  {
+    "id": "Hepatitis C (1945-1965)",
+    "type": "singlescreening",
+    "checked": false,
+	"linkChecked": true,
+	"toggleButtonValue": "",
+    "toggleOptions": [
+      {
+        "id": "PRN"
+      },
+      {
+        "id": "DUE NOW"
+      }
+    ],
+    "dateReceived": null,
+    "dateDue": null
+  },
+  {
+    "id": "Lung Cancer (CT)",
+    "type": "singlescreening",
+    "checked": false,
+	"linkChecked": true,
+	"toggleButtonValue": "",
+    "toggleOptions": [
+      {
+        "id": "PRN"
+      },
+      {
+        "id": "DUE NOW"
+      },
+	  {
+        "id": "NON-SMOKER"
+      }
+    ],
+    "dateReceived": null,
+    "dateDue": null
+  },
+  {
+    "id": "PSA",
+    "type": "singlescreening",
+    "checked": false,
+	"linkChecked": true,
+	"toggleButtonValue": "",
+    "toggleOptions": [
+      {
+        "id": "PRN"
+      },
+      {
+        "id": "DUE NOW"
+      }
+    ],
+    "gender": 1,
+    "dateReceived": null,
+    "dateDue": null
+  },
+  {
+    "id": "Vision/Glaucoma",
+    "type": "singlescreening",
+    "checked": false,
+	"linkChecked": true,
+	"toggleButtonValue": "",
+    "toggleOptions": [
+      {
+        "id": "PRN"
+      },
+      {
+        "id": "DUE NOW"
+      }
+    ],
+    "dateReceived": null,
+    "dateDue": null
+  },
+  {
+    "id": "Depression screening (PHQ-9)",
+    "type": "singlescreening",
+    "checked": false,
+	"linkChecked": true,
+	"toggleButtonValue": "",
+    "toggleOptions": [
+      {
+        "id": "ACTIVE DIAGNOSIS"
+      },
+      {
+        "id": "DUE NOW"
+      }
+    ],
+    "dateReceived": null,
+    "dateDue": null
+  },
+  {
+    "id": "Annual Wellness Exam",
+    "type": "singlescreening",
+    "checked": false,
+	"linkChecked": true,
+	"toggleButtonValue": "",
+    "toggleOptions": [
+      {
+        "id": "PRN"
+      },
+      {
+        "id": "DUE NOW"
+      }
+    ],
+    "dateReceived": null,
+    "dateDue": null
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "id": "COVID-19",
+    "doses": [
+      {
+        "id": "1st Dose",
+        "dateReceived": null,
+        "checked": false
+      },
+      {
+        "id": "2nd Dose",
+        "dateReceived": null,
+        "checked": false
+      },
+      {
+        "id": "Booster 1",
+        "dateReceived": null,
+        "checked": false
+      },
+      {
+        "id": "Booster 2",
+        "dateReceived": null,
+        "checked": false
+      },
+      {
+        "id": "Bivalent Booster",
+        "dateReceived": null,
+        "checked": false
+      }
+    ],
+    "checked": false
+  },
+  {
+    "id": "Shingles",
+    "doses": [
+      {
+        "id": "1st Dose",
+        "dateReceived": null,
+        "checked": false
+      },
+      {
+        "id": "2nd Dose",
+        "dateReceived": null,
+        "checked": false
+      }
+    ],
+    "checked": false
+  }
+]

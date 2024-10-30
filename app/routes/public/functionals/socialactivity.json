@@ -1,0 +1,14 @@
+{
+  "questions": [
+    {
+      "id": "family",
+      "description": "How many times per week do you talk to family members?",
+      "value": 0
+    },
+    {
+      "id": "friends",
+      "description": "How many times per week do you talk to friends?",
+      "value": 0
+    }
+  ]
+}

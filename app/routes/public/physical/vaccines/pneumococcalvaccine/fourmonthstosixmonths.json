@@ -1,0 +1,190 @@
+{
+	"riskConditions": [],
+	"recommendations": [
+		{
+			"id": "0vaccinestaken",
+			"possibleNextVaccines": [
+				{
+					"id": "PCV13/PCV15",
+					"statements": [
+						{
+							"id": "regardless of having risk condition",
+							"value": false,
+							"pre": "administer PCV13/PCV15 or PCV20 vaccine at least 4 weeks after this initial PCV13/PCV15 vaccine",
+							"dayjsInJsonForm": {
+								"value": 4,
+								"unit": "weeks"
+							},
+							"post": "wait until next appointment and re-evaluate",
+							"dateDue": null
+						}
+					]
+				},
+				{
+					"id": "PCV20",
+					"statements": [
+						{
+							"id": "regardless of having risk condition",
+							"value": false,
+							"pre": "administer PCV13/PCV15 or PCV20 vaccine at least 4 weeks after this initial PCV20 vaccine",
+							"dayjsInJsonForm": {
+								"value": 4,
+								"unit": "weeks"
+							},
+							"post": "wait until next appointment and re-evaluate",
+							"dateDue": null
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "1vaccinetakenanddose1atleast4weeksago",
+			"possibleNextVaccines": [
+				{
+					"id": "PCV13/PCV15",
+					"statements": [
+						{
+							"id": "regardless of having risk condition",
+							"value": false,
+							"pre": "at least 4 weeks after your last PCV13/PCV15 or PCV20 vaccine",
+							"dayjsInJsonForm": {
+								"value": 4,
+								"unit": "weeks"
+							},
+							"post": "wait until next appointment and re-evaluate",
+							"dateDue": null
+						}
+					]
+				},
+				{
+					"id": "PCV20",
+					"statements": [
+						{
+							"id": "regardless of having risk condition",
+							"value": false,
+							"pre": "at least 4 weeks after your last PCV13/PCV15 or PCV20 vaccine",
+							"dayjsInJsonForm": {
+								"value": 4,
+								"unit": "weeks"
+							},
+							"post": "wait until next appointment and re-evaluate",
+							"dateDue": null
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "1vaccinetakenanddose1lessthan4weeksago",
+			"possibleNextVaccines": [
+				{
+					"id": "PCV13/PCV15",
+					"statements": [
+						{
+							"id": "regardless of having risk condition",
+							"value": false,
+							"pre": "at least 4 weeks after your last PCV13/PCV15 or PCV20 vaccine",
+							"dayjsInJsonForm": {
+								"value": 4,
+								"unit": "weeks"
+							},
+							"post": "wait until next appointment and re-evaluate",
+							"dateDue": null
+						}
+					]
+				},
+				{
+					"id": "PCV20",
+					"statements": [
+						{
+							"id": "regardless of having risk condition",
+							"value": false,
+							"pre": "at least 4 weeks after your last PCV13/PCV15 or PCV20 vaccine",
+							"dayjsInJsonForm": {
+								"value": 4,
+								"unit": "weeks"
+							},
+							"post": "wait until next appointment and re-evaluate",
+							"dateDue": null
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "2vaccinetakenanddose2atleast4weeksago",
+			"possibleNextVaccines": [
+				{
+					"id": "PCV13/PCV15",
+					"statements": [
+						{
+							"id": "regardless of having risk condition",
+							"value": false,
+							"pre": "administer today",
+							"dayjsInJsonForm": {
+								"value": 0,
+								"unit": "years"
+							},
+							"post": "wait until at least 12 months old and administer PCV13/PCV15 or PCV20",
+							"dateDue": null
+						}
+					]
+				},
+				{
+					"id": "PCV20",
+					"statements": [
+						{
+							"id": "regardless of having risk condition",
+							"value": false,
+							"pre": "administer today",
+							"dayjsInJsonForm": {
+								"value": 0,
+								"unit": "years"
+							},
+							"post": "wait until at least 12 months old and administer PCV13/PCV15 or PCV20",
+							"dateDue": null
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "2vaccinetakenanddose2lessthan4weeksago",
+			"possibleNextVaccines": [
+				{
+					"id": "PCV13/PCV15",
+					"statements": [
+						{
+							"id": "regardless of having risk condition",
+							"value": false,
+							"pre": "at least 4 weeks after your last PCV13/PCV15 or PCV20 vaccine",
+							"dayjsInJsonForm": {
+								"value": 4,
+								"unit": "weeks"
+							},
+							"post": "wait until next appointment and re-evaluate",
+							"dateDue": null
+						}
+					]
+				},
+				{
+					"id": "PCV20",
+					"statements": [
+						{
+							"id": "regardless of having risk condition",
+							"value": false,
+							"pre": "at least 4 weeks after your last PCV13/PCV15 or PCV20 vaccine",
+							"dayjsInJsonForm": {
+								"value": 4,
+								"unit": "weeks"
+							},
+							"post": "wait until next appointment and re-evaluate",
+							"dateDue": null
+						}
+					]
+				}
+			]
+		}
+	]
+}

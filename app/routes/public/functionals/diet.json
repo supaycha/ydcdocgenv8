@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "id": "fastfood",
+      "description": "How many times per week do you eat fast food?",
+      "value": 0
+    },
+    {
+      "id": "fruitsandvegetables",
+      "description": "How many times per week do your meals include fruits and/or vegetables?",
+      "value": 0
+    },
+    {
+      "id": "mealsperday",
+      "description": "How many meals do you eat per day?",
+      "value": 0
+    },
+    {
+      "id": "waterintake",
+      "description": "How many glasses per day do you drink?",
+      "value": 0
+    }
+  ]
+}

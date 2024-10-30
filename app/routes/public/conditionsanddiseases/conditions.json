@@ -1,0 +1,240 @@
+[
+  {
+    "id": "hypertensive",
+    "checked": false,
+    "selection": null,
+    "label": "Hypertensive",
+    "choices": [
+      "Essential (primary) hypertension",
+      "Hypertensive heart disease with heart failure",
+      "Hypertensive heart and chronic kidney disease with heart failure",
+      "Hypertensive heart and chronic kidney disease without heart failure"
+    ],
+    "treatmentGoals": [
+      "Goals include evaluating medication adherence, monitoring treatment results, relevant laboratory studies, and adjusting medication.",
+      "Individualize targets based on age and comorbidities. Most adults: BP < 130/80 mm Hg ",
+      "Reduce the risk of future adverse CVD outcomes"
+    ],
+    "plannedInterventions": [
+      "Lifestyle modifications",
+      "Consider possible psychosocial factors or health determinants that may contribute to the patient's condition.",
+      "Manage ASCVD risk factors and other comorbidities.",
+      "Provide recommendations regarding nutrition, preventive screening, and vaccinations.",
+      "Follow-up regularly: reassess indications for pharmacological treatment and tailor therapy to individual needs."
+    ]
+  },
+  {
+    "id": "type2diabetesmellitus",
+    "checked": false,
+    "selection": null, 
+    "label": "Type 2 diabetes mellitus",
+    "hba1c": [
+      {
+        "id": "hba1c1",
+        "label": "HBA1C",
+        "value": 0,
+        "date": null
+      },
+	  {
+        "id": "hba1c2",
+        "label": "HBA1C",
+        "value": 0,
+        "date": null
+      },
+	  {
+        "id": "hba1c3",
+        "label": "HBA1C",
+        "value": 0,
+        "date": null
+      },
+	  {
+        "id": "hba1c4",
+        "label": "HBA1C",
+        "value": 0,
+        "date": null
+      },
+	  {
+        "id": "hba1c5",
+        "label": "HBA1C",
+        "value": 0,
+        "date": null
+      },
+	  {
+        "id": "hba1c6",
+        "label": "HBA1C",
+        "value": 0,
+        "date": null
+      }
+    ],
+    "choices": [
+      "Type 2 diabetes mellitus",
+      "Type 2 diabetes mellitus with diabetic chronic kidney disease",
+      "Type 2 diabetes mellitus with Hyperglycemia ",
+      "Type 2 diabetes mellitus with diabetic Polyneuropathy"
+    ],
+    "treatmentGoals": [
+      "Blood glucose control, tailored to glycemic targets and regularly monitored",
+      "The goals of diabetes management include eliminating symptoms of hyperglycemia, reducing or eliminating complications, and enabling as healthy a lifestyle as possible.",
+      "Hemoglobin a1c <7.0%, fasting plasma glucose (FPG) 80-130 mg/dl"
+    ],
+    "plannedInterventions": [
+      "Lifestyle modifications",
+      "Routine screening for common comorbidities and management of possible complications",
+      "Control of blood pressure and blood lipids.",
+      "ASCVD risk assessment and ASCVD prevention",
+      "Consider possible psychosocial factors or health determinants that may contribute to the patient's condition.",
+      "Provide recommendations regarding nutrition, preventive screening, and vaccinations.",
+      "Provide continuous patient education regarding chronic conditions",
+      "Follow-up: Periodically reevaluate the need for further diabetes self-management education, pharmacological treatment, and tailor therapy to individual needs, and support"
+    ]
+  },
+  {
+    "id": "chronickidneydisease",
+    "checked": false,
+    "selection": null,
+    "label": "Chronic kidney disease",
+    "choices": [
+      "Chronic kidney disease stage 1, 2, 3a, 3b.",
+      "Chronic kidney disease, stage 4 (severe)",
+      "Stage 5 chronic kidney disease not on chronic dialysis",
+      "Stage 5 chronic kidney disease on chronic dialysis"
+    ],
+    "treatmentGoals": [
+      "The goals of treatment are to delay the progression of CKD and prevent and manage complications.",
+      "Diagnose CKD early and control the underlying cause.",
+      "Assess for evidence of metabolic complications and start management under specialist guidance.",
+      "ASCVD risk assessment and ASCVD prevention"
+    ],
+    "plannedInterventions": [
+      "Monitor for CKD progression and continuously evaluate the need for advanced care.",
+      "Close surveillance of serum potassium, calcium, and phosphate levels is essential.",
+      "Routine screening for common comorbidities, and managing comorbidities: Diabetes mellitus screening, Blood pressure monitoring, Screening for lipid disorders",
+      "Avoid the use of potentially nephrotoxic substances (except when the benefits outweigh the risks). Renal cleared medications: Adjust dosing based on the patient's eGFR",
+      "Lifestyle modifications",
+      "Consider possible psychosocial factors or health determinants that may contribute to the patient's condition",
+      "Provide recommendations regarding nutrition, preventive screening, and vaccinations.",
+      "Provide continuous patient education regarding chronic conditions",
+      "Frequently monitor renal function and electrolytes and, when indicated, measure drug levels."
+    ]
+  },
+  {
+    "id": "hyperlipidemia",
+    "checked": false,
+    "selection": null,
+    "label": "Hyperlipidemia",
+    "choices": [
+      "Mixed Hyperlipidemia",
+      "Hyperlipidemia ",
+      "Hypercholesterolemia"
+    ],
+    "treatmentGoals": [
+      "The goal of treatment is to reduce the risk of cardiovascular diseases.",
+      "Emphasize a heart-healthy lifestyle for all patients across their life span.",
+      "LDL: 70 mg/dl.",
+      "Goals include evaluating medication adherence, monitoring treatment, relevant laboratory studies, and medication adjustment."
+    ],
+    "plannedInterventions": [
+      "Lifestyle modifications",
+      "ASCVD risk assessment and ASCVD prevention",
+      "A patient-centered approach",
+      "Consider possible psychosocial factors or health determinants that may contribute to the patient's condition",
+      "Provide recommendations regarding nutrition, preventive screening, and vaccinations.",
+      "Provide continuous patient education regarding chronic conditions",
+      "Follow-up regularly: reassess indications for pharmacological treatment and tailor therapy to individual needs."
+    ]
+  },
+  {
+    "id": "hypothyroidism",
+    "checked": false,
+    "selection": null,
+    "label": "Hypothyroidism",
+    "choices": ["Hypothyroidism", "Acquired hypothyroidism"],
+    "treatmentGoals": [
+      "Restoration of the euthyroid state, which can be readily accomplished in almost all patients by oral administration of synthetic thyroxine.",
+      "Reverse all the clinical manifestations of hypothyroidism, clinical progression, and correct metabolic derangements",
+      "Goals include evaluating medication adherence, monitoring treatment, relevant laboratory studies, and medication adjusting."
+    ],
+    "plannedInterventions": [
+      "A patient - centered approach",
+      "Lifestyle modifications",
+      "Consider possible psychosocial factors or health determinants that may contribute to the patient's condition",
+      "Provide recommendations regarding nutrition, preventive screening, and vaccinations.",
+      "Provide continuous patient education regarding chronic conditions",
+      "Encourage patients with chronic illnesses to seek support from peers with the same chronic illness (e.g., through online communities",
+      "Follow-up regularly: reassess indications for pharmacological treatment and tailor therapy to individual needs."
+    ]
+  },
+  {
+    "id": "copd",
+    "checked": false,
+    "selection": null,
+    "label": "COPD",
+    "choices": [
+      "Chronic obstructive pulmonary disease (COPD)",
+      "Mixed simple and mucopurulent chronic bronchitis"
+    ],
+    "treatmentGoals": [
+      "Medical treatment goal in COPD is to reduce symptoms&#39; severity, improve overall health status, and lower the frequency and severity of exacerbation.",
+      "Delay long-term complications and progression of the disease."
+    ],
+    "plannedInterventions": [
+      "Personalized treatment to suit individual needs with different severity of the disease.",
+      "Provided extra care for patients with recent exacerbations for the post-acute and rehabilitation phases.",
+      "Self-management, pulmonary rehabilitation, and interdisciplinary, patient-centered, and holistic approach to the management of complex COPD patients.",
+      "Lifestyle changes inherent in living with a chronic condition; focus on smoking cessation,avoiding stimuli, physical activity/ exercise, influenza vaccination, adherence to pharmacotherapy, managing stress and anxiety, awareness for recurrent exacerbations, early detection of symptom deterioration and medical treatment of exacerbations.",
+      "Educate patients about the optimal use of inhalers, an important part of self-management, and that involves health coaching, skills training, competency, learning at home, and regular review.",
+      "Pulmonary rehabilitation is a comprehensive intervention based on a thorough patient assessment followed by patient - tailored therapies, which include, but are not limited to, exercise training, education, and behavior change, designed to improve the physical and psychological condition of people with chronic respiratory disease and to promote the long-term adherence of health-enhancing behaviors.",
+      "Very severe patients may require additional support for home non-invasive ventilation, palliative care, and advanced care planning.",
+      "Patient education about how and when to take medications, when to call a doctor, and when to get emergency treatment, track how they are doing, and know what concerns to bring up with a doctor."
+    ]
+  },
+  {
+    "id": "osteoporosis",
+    "checked": false,
+    "selection": null,
+    "label": "Osteoporosis",
+    "choices": [
+      "Age-related osteoporosis with current pathological fracture",
+      "Age-related osteoporosis without current pathological fracture",
+      "Osteoporosis with current pathological fracture",
+      "Osteoporosis without current pathological fracture"
+    ],
+    "treatmentGoals": [
+      "The main treatment goal is decreasing the absolute risk of fracture and preventing disability by reducing bone loss, preventing falls, and controlling pain."
+    ],
+    "plannedInterventions": [
+      "Selection of therapy considering patient age, stage of life, comorbidities, concomitant medications, falling risk, and frailty, in addition to the severity of osteoporosis.",
+      "Evaluate adherence to treatment and periodic monitoring response to therapy",
+      "For patients with recent fractures, it is critical to prevent fractures during the next several years, when the risk of another fracture is substantially elevated.",
+      "Assess for other risk factors for fracture, such as a change in medications, weight loss, or development of a diagnosis that influences fracture risk, suggest a change in risk of fracture during treatment.",
+      "Reassess bone mineral density (commonly in the lumbar spine and hips) with a DEXA Scan for women ≥ 65 years and men ≥ 70 years once a year.",
+      "Lifestyle changes such as eating a nutritious and well-balanced diet with plenty of calcium-fortified foods, vitamin D and calcium supplements (at least 1500 mg of calcium per day), regular weight-bearing exercise and sunlight, avoiding smoking and alcohol and avoiding or minimizing the use of glucocorticoids.",
+      "Follow-up regularly: reassess indications for pharmacological treatment and tailor therapy to individual needs."
+    ]
+  },
+  {
+    "id": "primarygeneralizedosteoarthritis",
+    "checked": false,
+    "selection": null,
+    "label": "Primary Generalized (Osteo)Arthritis",
+    "choices": [
+      "Primary generalized (osteo)arthritis",
+      "Secondary osteoarthritis, multiple sites"
+    ],
+    "treatmentGoals": [
+      "The goal of treatment in osteoarthritis is to reduce pain and improve function.",
+      "Goals include evaluating medication adherence, monitoring treatment, and relevant laboratory studies, and adjusting medication.",
+      "A comprehensive plan for the management of osteoarthritis in an individual patient may include educational, behavioral, psychosocial, and physical interventions and pharmacologic therapy."
+    ],
+    "plannedInterventions": [
+      "Stepwise approach to treatment: Start with nonpharmacological management, followed by pharmacological and/or surgical treatment if needed.",
+      "Individualize treatment based on patient preferences, comorbidities, treatment goals, and available resources.",
+      "Educate patients about the disease and self-management techniques.",
+      "Lifestyle changes for managing osteoarthritis: Exercise: Formulate a specific exercise plan, considering patient preference and availability. Weight loss: indicated in overweight and obese patients. Losing extra weight helps reduce pain and slow joint damage.",
+      "Help patients with assistive devices and other therapies that don’t involve drugs can help to ease the pain. Supportive devices (e.g., a cane or knee brace). Consider referral to physical therapy or occupational therapy.",
+      "Provide recommendations regarding nutrition, preventive screening, and vaccinations.",
+      "Follow-up regularly: reassess indications for nonpharmacological, pharmacological, or surgical treatment depending on disease progress."
+    ]
+  }
+]
+

@@ -1,0 +1,34 @@
+{
+	"items": {
+		"byId": {
+			"1": {
+				"id": 1,
+				"name": "Initial Item",
+				"subitemIds": [
+					1
+				],
+				"textfield1": "",
+				"textfield2": ""
+			}
+		},
+		"allIds": [
+			1
+		]
+	},
+	"subitems": {
+		"byId": {
+			"1": {
+				"id": 1,
+				"name": "Initial Subitem",
+				"parentId": 1,
+				"textfield1": "",
+				"textfield2": ""
+			}
+		},
+		"allIds": [
+			1
+		]
+	},
+	"itemIdCounter": 1,
+	"subItemIdCounter": 1
+}

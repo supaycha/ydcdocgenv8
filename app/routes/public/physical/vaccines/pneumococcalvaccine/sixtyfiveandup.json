@@ -1,0 +1,384 @@
+{
+  "riskConditions": [
+    {
+      "id": "Alcoholism or cigarette smoking",
+      "type": "general",
+      "checked": false
+    },
+    {
+      "id": "Cerebrospinal fluid leak",
+      "type": "general",
+      "checked": false
+    },
+    {
+      "id": "Chronic heart disease, including congestive heart failure and cardiomyopathies, excluding hypertension",
+      "type": "general",
+      "checked": false
+    },
+    {
+      "id": "Chronic liver disease",
+      "type": "general",
+      "checked": false
+    },
+    {
+      "id": "Chronic lung disease, including chronic obstructive pulmonary disease, emphysema, and asthma",
+      "type": "general",
+      "checked": false
+    },
+    {
+      "id": "Cochlear implant",
+      "type": "general",
+      "checked": false
+    },
+    {
+      "id": "Diabetes mellitus",
+      "type": "general",
+      "checked": false
+    },
+    {
+      "id": "Chronic renal failure or nephrotic syndrome",
+      "type": "immunocompromising",
+      "checked": false
+    },
+    {
+      "id": "Congenital or acquired asplenia, or splenic dysfunction",
+      "type": "immunocompromising",
+      "checked": false
+    },
+    {
+      "id": "Congenital or acquired immunodeficiency",
+      "type": "immunocompromising",
+      "checked": false
+    },
+    {
+      "id": "Diseases or conditions treated with immunosuppressive drugs or radiation therapy",
+      "type": "immunocompromising",
+      "checked": false
+    },
+    {
+      "id": "HIV infection",
+      "type": "immunocompromising",
+      "checked": false
+    },
+    {
+      "id": "Sickle cell disease or other hemoglobinopathies",
+      "type": "immunocompromising",
+      "checked": false
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "novaccinestaken",
+      "possibleNextVaccines": [
+        {
+          "id": "PCV13/PCV15",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": true,
+              "pre": "no vaccine recommendations at this time",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": null,
+              "dateDue": null
+            },
+            {
+              "id": "who have an immunocompromising condition, cochlear implant, or cerebrospinal fluid leak",
+              "value": false,
+              "pre": "administer PPSV23 vaccine at least 8 weeks after this initial PCV13/PCV15 vaccine",
+              "dayjsInJsonForm": {
+                "value": 8,
+                "unit": "weeks"
+              },
+              "post": "complete",
+              "dateDue": null
+            },
+            {
+              "id": "any risk condition other than an immunocompromising condition, cochlear implant, or cerebrospinal fluid leak",
+              "value": false,
+              "pre": "administer PPSV23 vaccine at least 1 year after this initial PCV13/PCV15 vaccine",
+              "dayjsInJsonForm": {
+                "value": 1,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        },
+        {
+          "id": "PCV20",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": true,
+              "pre": "no vaccine recommendations at this time",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": null,
+              "dateDue": null
+            },
+            {
+              "id": "any risk condition",
+              "value": false,
+              "pre": "after this initial PCV20 vaccine",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "onlyppsv23taken",
+      "possibleNextVaccines": [
+        {
+          "id": "PCV13/PCV15",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "null",
+              "dayjsInJsonForm": {
+                "value": 1,
+                "unit": "years"
+              },
+              "post": "null",
+              "dateDue": null
+            },
+            {
+              "id": "any risk condition",
+              "value": false,
+              "pre": "at least 1 year after your PPSV23 vaccine",
+              "dayjsInJsonForm": {
+                "value": 1,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        },
+        {
+          "id": "PCV20",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "null",
+              "dayjsInJsonForm": {
+                "value": 1,
+                "unit": "years"
+              },
+              "post": "null",
+              "dateDue": null
+            },
+            {
+              "id": "any risk condition",
+              "value": false,
+              "pre": "at least 1 year after your PPSV23 vaccine",
+              "dayjsInJsonForm": {
+                "value": 1,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "onlypcv13pcv15",
+      "possibleNextVaccines": [
+        {
+          "id": "PCV20",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "no vaccine recommendations at this time",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": null,
+              "dateDue": null
+            },
+            {
+              "id": "any risk condition other than an immunocompromising condition, cochlear implant, or cerebrospinal fluid leak",
+              "value": false,
+              "pre": "at least 1 year after your PCV13/PCV15 vaccine",
+              "dayjsInJsonForm": {
+                "value": 1,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            },
+            {
+              "id": "who have a cerebrospinal fluid leak, cochlear implant, or immunocompromising condition",
+              "value": false,
+              "pre": "at least 1 year after your PCV13/PCV15 vaccine",
+              "dayjsInJsonForm": {
+                "value": 1,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        },
+        {
+          "id": "PPSV23",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "no vaccine recommendations at this time",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": null,
+              "dateDue": null
+            },
+            {
+              "id": "any risk condition other than an immunocompromising condition, cochlear implant, or cerebrospinal fluid leak",
+              "value": false,
+              "pre": "at least 1 year after your PCV13/PCV15 vaccine",
+              "dayjsInJsonForm": {
+                "value": 1,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            },
+            {
+              "id": "who have a cerebrospinal fluid leak, cochlear implant, or immunocompromising condition",
+              "value": false,
+              "pre": "at least 8 weeks after your PCV13/PCV15 vaccine",
+              "dayjsInJsonForm": {
+                "value": 8,
+                "unit": "weeks"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pcv13atanyageandppsv23BEFORE65",
+      "possibleNextVaccines": [
+        {
+          "id": "PCV20",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "no vaccine recommendations at this time",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": null,
+              "dateDue": null
+            },
+            {
+              "id": "any risk condition other than an immunocompromising condition, cochlear implant, or cerebrospinal fluid leak",
+              "value": false,
+              "pre": "at least 5 years after your last pneumo vaccine",
+              "dayjsInJsonForm": {
+                "value": 5,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            },
+            {
+              "id": "who have a cerebrospinal fluid leak, cochlear implant, or immunocompromising condition",
+              "value": false,
+              "pre": "at least 5 years after your PPSV23 vaccine (and at least 1 year after your PCV13/PCV15 dose)",
+              "dayjsInJsonForm": {
+                "value": 5,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        },
+        {
+          "id": "PPSV23",
+          "statements": [
+            {
+              "id": "no risk conditions",
+              "value": false,
+              "pre": "no vaccine recommendations at this time",
+              "dayjsInJsonForm": {
+                "value": 0,
+                "unit": "years"
+              },
+              "post": null,
+              "dateDue": null
+            },
+            {
+              "id": "any risk condition other than an immunocompromising condition, cochlear implant, or cerebrospinal fluid leak",
+              "value": false,
+              "pre": "at least 5 years after your last pneumo vaccine (and at least 1 year after your PCV13/PCV15 dose)",
+              "dayjsInJsonForm": {
+                "value": 5,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            },
+            {
+              "id": "who have a cerebrospinal fluid leak, cochlear implant, or immunocompromising condition",
+              "value": false,
+              "pre": "at least 5 years after your PPSV23 vaccine (and at least 8 weeks after your PCV13/PCV15 dose)",
+              "dayjsInJsonForm": {
+                "value": 5,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pcv13atanyageandppsv23AFTER65",
+      "possibleNextVaccines": [
+        {
+          "id": "PCV20",
+          "statements": [
+            {
+              "id": "regardless of having risk condition or not",
+              "value": false,
+              "pre": "at least 5 years after your last pneumo vaccine",
+              "dayjsInJsonForm": {
+                "value": 5,
+                "unit": "years"
+              },
+              "post": "complete",
+              "dateDue": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

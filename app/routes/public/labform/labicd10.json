@@ -1,0 +1,67 @@
+[
+	{
+		"id": "I10",
+		"code": "I10",
+		"description": "Essential (primary) hypertension"
+	},
+	{
+		"id": "E11.9",
+		"code": "E11.9",
+		"description": "Type 2 diabetes mellitus without complica"
+	},
+	{
+		"id": "E78.01",
+		"code": "E78.01",
+		"description": "Familial hypercholesterolemia"
+	},
+	{
+		"id": "E78.49",
+		"code": "E78.49",
+		"description": "Other hyperlipidemia"
+	},
+	{
+		"id": "E03.8",
+		"code": "E03.8",
+		"description": "Other specified hypothyroidism"
+	},
+	{
+		"id": "E55.9",
+		"code": "E55.9",
+		"description": "Vitamin D deficiency, unspecified"
+	},
+	{
+		"id": "E53.8",
+		"code": "E53.8",
+		"description": "Deficiency of other specified B group vitamins"
+	},
+	{
+		"id": "I11.9",
+		"code": "I11.9",
+		"description": "Hypertensive heart disease without heart failure"
+	},
+	{
+		"id": "I48.11",
+		"code": "I48.11",
+		"description": "Longstanding persistent atrial fibrilation"
+	},
+	{
+		"id": "Z00.00",
+		"code": "Z00.00",
+		"description": "Encounter for general adult medical exam"
+	},
+	{
+		"id": "R53.83",
+		"code": "R53.83",
+		"description": "Other fatigue"
+	},
+	{
+		"id": "M1A.09X0",
+		"code": "M1A.09X0",
+		"description": "Idiopathic chronic gout, multiple sites, without tophus (tophi)"
+	},
+	{
+		"id": "Z79.899",
+		"code": "Z79.899",
+		"description": "Other long term (current) drug therapy"
+	}
+]

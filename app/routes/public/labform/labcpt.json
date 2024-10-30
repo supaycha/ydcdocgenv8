@@ -1,0 +1,187 @@
+[
+	{
+		"id": "85025",
+		"code": 85025,
+		"description": "CBC"
+	},
+	{
+		"id": "83036",
+		"code": 83036,
+		"description": "HA1C"
+	},
+	{
+		"id": "81003",
+		"code": 81003,
+		"description": "UA"
+	},
+	{
+		"id": "80053",
+		"code": 80053,
+		"description": "Comprehensive metabolic panel"
+	},
+	{
+		"id": "80048",
+		"code": 80048,
+		"description": "Basic metabolic panel"
+	},
+	{
+		"id": "80061",
+		"code": 80061,
+		"description": "Lipid panel"
+	},
+	{
+		"id": "80076",
+		"code": 80076,
+		"description": "Hepatic function panel"
+	},
+	{
+		"id": "82947",
+		"code": 82947,
+		"description": "Glucose"
+	},
+	{
+		"id": "84295",
+		"code": 84295,
+		"description": "Sodium"
+	},
+	{
+		"id": "84132",
+		"code": 84132,
+		"description": "Potassium"
+	},
+	{
+		"id": "82435",
+		"code": 82435,
+		"description": "Chloride"
+	},
+	{
+		"id": "84520",
+		"code": "84520",
+		"description": "BUN"
+	},
+	{
+		"id": "82565",
+		"code": 82565,
+		"description": "Creatinine"
+	},
+	{
+		"id": "82247",
+		"code": 82247,
+		"description": "Total Bilirubin"
+	},
+	{
+		"id": "82465",
+		"code": 82465,
+		"description": "Cholesterol"
+	},
+	{
+		"id": "84450",
+		"code": 84450,
+		"description": "AST"
+	},
+	{
+		"id": "84460",
+		"code": 84460,
+		"description": "ALT"
+	},
+	{
+		"id": "82550",
+		"code": 82550,
+		"description": "CPK"
+	},
+	{
+		"id": "84075",
+		"code": 84075,
+		"description": "Alk. Phos."
+	},
+	{
+		"id": "82310",
+		"code": 82310,
+		"description": "Calcium"
+	},
+	{
+		"id": "84155",
+		"code": 84155,
+		"description": "T. Protein"
+	},
+	{
+		"id": "82040",
+		"code": 82040,
+		"description": "Albumin"
+	},
+	{
+		"id": "82374",
+		"code": 82374,
+		"description": "Carbon Dioxide"
+	},
+	{
+		"id": "84478",
+		"code": 84478,
+		"description": "Triglycerides"
+	},
+	{
+		"id": "82248",
+		"code": 82248,
+		"description": "Direct Bilirubin"
+	},
+	{
+		"id": "85610",
+		"code": 85610,
+		"description": "Prothrombin time"
+	},
+	{
+		"id": "84443",
+		"code": 84443,
+		"description": "TSH"
+	},
+	{
+		"id": "82607",
+		"code": 82607,
+		"description": "Vitamin B-12"
+	},
+	{
+		"id": "82306",
+		"code": 82306,
+		"description": "Vitamin D"
+	},
+	{
+		"id": "87804",
+		"code": 87804,
+		"description": "Flu Screen"
+	},
+	{
+		"id": "87502",
+		"code": 87502,
+		"description": "Flu Screen PCR"
+	},
+	{
+		"id": "87880",
+		"code": 87880,
+		"description": "Strep Screen"
+	},
+	{
+		"id": "81025",
+		"code": 81025,
+		"description": "Pregnancy Test - Urine"
+	},
+	{
+		"id": "82274",
+		"code": 82274,
+		"description": "Hemocult"
+	},
+	{
+		"id": "82570",
+		"code": 82570,
+		"description": "Creatinine, other"
+	},
+	{
+		"id": "82043",
+		"code": 82043,
+		"description": "Albumin; urine quantative"
+	},
+	{
+		"id": "93000",
+		"code": 93000,
+		"description": "Electrocardiogram, complete"
+	}
+]

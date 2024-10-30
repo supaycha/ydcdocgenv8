@@ -1,0 +1,9 @@
+{
+  "questions": [
+    {
+      "id": "timesperweek",
+      "description": "How many times per week do you exercise in any way for at least 30 minutes?",
+      "value": 0
+    }
+  ]
+}

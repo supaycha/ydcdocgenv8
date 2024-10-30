@@ -1,0 +1,27 @@
+[
+	{
+		"id": "penicillinandrelated",
+		"checked": false,
+		"value": "Penicillin and related antibiotics"
+	},
+	{
+		"id": "antibioticswsulfonamides",
+		"checked": false,
+		"value": "Antibiotics containing sulfonamides (sulfa drugs)"
+	},
+	{
+		"id": "anticonvulsants",
+		"checked": false,
+		"value": "Anticonvulsants"
+	},
+	{
+		"id": "antiinflammatories",
+		"checked": false,
+		"value": "Aspirin, ibuprofen and other nonsteroidal anti-inflammatory drugs (NSAIDs)"
+	},
+	{
+		"id": "chemotherapies",
+		"checked": false,
+		"value": "Chemotherapy drugs"
+	}
+]

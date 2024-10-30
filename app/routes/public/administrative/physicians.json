@@ -1,0 +1,1119 @@
+[
+  {
+    "id": "Allergy & Immunology",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "Allergy & Immunology",
+        "label": "Robert Harvey, MD",
+        "phone": "361-573-0713"
+      },
+      {
+        "physician": "Allergy & Immunology",
+        "label": "Paul Jantzi, MD",
+        "phone": "979-485-9287"
+      },
+      {
+        "physician": "Allergy & Immunology",
+        "label": "Sanober Tamboli, MD",
+        "phone": "281-693-0084"
+      }
+    ],
+    "selections": [null, null]
+  },
+  {
+    "id": "Cardiology",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "Cardiology",
+        "label": "Robert Canby , MD",
+        "phone": "512-807-3150"
+      },
+      {
+        "physician": "Cardiology",
+        "label": "Benjamin Winders, MD",
+        "phone": "512-807-3160"
+      },
+      {
+        "physician": "Cardiology",
+        "label": "Erol Ozdil, MD",
+        "phone": "512-623-5300"
+      },
+      {
+        "physician": "Cardiology",
+        "label": "Michael Henderson, MD",
+        "phone": "512-807-3150"
+      },
+      {
+        "physician": "Cardiology",
+        "label": "Matthew Selmon, MD",
+        "phone": "979-242-5677"
+      },
+      {
+        "physician": "Cardiology",
+        "label": "Phillip Burket, MD",
+        "phone": "979-242-5677"
+      },
+      {
+        "physician": "Cardiology",
+        "label": "Srinath Vemuri, MD",
+        "phone": "979-242-5677"
+      },
+      {
+        "physician": "Cardiology",
+        "label": "Paul R. Pagley, MD",
+        "phone": "979-242-5677"
+      },
+      {
+        "physician": "Cardiology",
+        "label": "Robert G. Hust, MD",
+        "phone": "713-790-0841"
+      },
+      {
+        "physician": "Cardiology",
+        "label": "Ramamanohara Pai, MD",
+        "phone": "281-646-9000"
+      },
+      {
+        "physician": "Cardiology",
+        "label": "Steven Garland, MD",
+        "phone": "979-242-5677"
+      },
+      {
+        "physician": "Cardiology",
+        "label": "David Rene Tschopp Jr., MD",
+        "phone": "979-242-5677"
+      },
+      {
+        "physician": "Cardiology",
+        "label": "Amir Kushani, MD",
+        "phone": "713-464-2928"
+      },
+      {
+        "physician": "Cardiology",
+        "label": "Gregory Pepper, MD",
+        "phone": "281-980-1282"
+      },
+      {
+        "physician": "Cardiology",
+        "label": "Erol Huseyin Ozdil, MD",
+        "phone": "512-623-5300"
+      },
+      {
+        "physician": "Cardiology",
+        "label": "John O. Tyler III, MD",
+        "phone": "713-796-2668"
+      },
+      {
+        "physician": "Cardiology",
+        "label": "Francis Uricchio, MD",
+        "phone": "281-910-0431"
+      },
+      {
+        "physician": "Cardiology",
+        "label": "Stanley Wang, MD",
+        "phone": "979-247-5677"
+      },
+      {
+        "physician": "Cardiology",
+        "label": "Jerome Thomas, MD",
+        "phone": "979-247-5677"
+      },
+      {
+        "physician": "Cardiology",
+        "label": "David Tschopp, MD",
+        "phone": "512-206-3600"
+      },
+      {
+        "physician": "Cardiology",
+        "label": "Daniel Herman, MD",
+        "phone": "713-242-2651"
+      },
+      {
+        "physician": "Cardiology",
+        "label": "Kennedy Thiagarajan, MD",
+        "phone": "713-864-2710"
+      },
+      {
+        "physician": "Cardiology",
+        "label": "Corey Scruggs, MD",
+        "phone": "713-441-3100"
+      }
+    ],
+    "selections": [null, null]
+  },
+  {
+    "id": "Dermatology",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "Dermatology",
+        "label": "Daniel Ladd, DO",
+        "phone": "512-451-0139"
+      },
+      {
+        "physician": "Dermatology",
+        "label": "Christy Woodruff, MD",
+        "phone": "979-353-4267"
+      },
+      {
+        "physician": "Dermatology",
+        "label": "Sana H. Zahiruddin, MD",
+        "phone": "281-665-7097"
+      },
+      {
+        "physician": "Dermatology",
+        "label": "Tolu Ogunsola, CRNP",
+        "phone": "512-643-4384"
+      },
+      {
+        "physician": "Dermatology",
+        "label": "Bethany Hughes, PA-C",
+        "phone": "512-451-0139"
+      },
+      {
+        "physician": "Dermatology",
+        "label": "Haider Bangash, MD",
+        "phone": "281-665-4444"
+      },
+      {
+        "physician": "Dermatology",
+        "label": "Sarah Gee, MD, FAAD",
+        "phone": "732-727-7546"
+      }
+    ],
+    "selections": [null, null]
+  },
+  {
+    "id": "Endocrinology",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "Endocrinology",
+        "label": "Medhavi Jodi, MD",
+        "phone": "713-795-0406"
+      },
+      {
+        "physician": "Endocrinology",
+        "label": "Libu Varughese, MD",
+        "phone": "713-795-0770"
+      },
+      {
+        "physician": "Endocrinology",
+        "label": "Donald Gardner, MD",
+        "phone": "713-984-8200"
+      },
+      {
+        "physician": "Endocrinology",
+        "label": "Keta Pandit, MD",
+        "phone": "512-485-8400"
+      },
+      {
+        "physician": "Endocrinology",
+        "label": "Tira Chaicha-Brom, MD",
+        "phone": "512-458-8400"
+      },
+      {
+        "physician": "Endocrinology",
+        "label": "Vivienne Leyco-Policarpo, MD",
+        "phone": "281-206-8201"
+      },
+      {
+        "physician": "Endocrinology",
+        "label": "Cristina Dumitru, MD",
+        "phone": "713-795-0770"
+      },
+      {
+        "physician": "Endocrinology",
+        "label": "Rakesh Patel, MD",
+        "phone": "832-593-8100"
+      }
+    ],
+    "selections": [null, null]
+  },
+  {
+    "id": "ENT",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "ENT",
+        "label": "Andrew DeJong, MD",
+        "phone": "979-693-6000"
+      },
+      {
+        "physician": "ENT",
+        "label": "Herman G. Leong, MD",
+        "phone": "361-573-4331"
+      },
+      {
+        "physician": "ENT",
+        "label": "Thomas Salzer , MD",
+        "phone": "979-680-8808"
+      },
+      {
+        "physician": "ENT",
+        "label": "Joseph L Russell, MD",
+        "phone": "979-353-4267"
+      },
+      {
+        "physician": "ENT",
+        "label": "Daniel P. Fox, MD",
+        "phone": "281-347-6700"
+      }
+    ],
+    "selections": [null, null]
+  },
+  {
+    "id": "ENT & Allergy",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "ENT & Allergy",
+        "label": "Genna Lechler, FNP",
+        "phone": "979-693-6000"
+      },
+      {
+        "physician": "ENT & Allergy",
+        "label": "Steven Wright, MD",
+        "phone": "979 680-8808"
+      }
+    ],
+    "selections": [null, null]
+  },
+  {
+    "id": "Family Medicine",
+    "checked": false,
+    "physicians": [],
+    "selections": [null, null]
+  },
+  {
+    "id": "Gastroenterology",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "Gastroenterology",
+        "label": "Matthew Spinn, MD",
+        "phone": "713-587-0909"
+      },
+      {
+        "physician": "Gastroenterology",
+        "label": "Sushil Duddempudi, MD",
+        "phone": "512-244-2273"
+      },
+      {
+        "physician": "Gastroenterology",
+        "label": "John Ziebert, MD",
+        "phone": "979-725-8545"
+      },
+      {
+        "physician": "Gastroenterology",
+        "label": "Hashim M. Khandwalla, MD",
+        "phone": "713-461-1026"
+      },
+      {
+        "physician": "Gastroenterology",
+        "label": "Vivian Asamoah, MD",
+        "phone": "281-746-9284"
+      },
+      {
+        "physician": "Gastroenterology",
+        "label": "Katherine Nguyen, MD",
+        "phone": "713-461-1026"
+      },
+      {
+        "physician": "Gastroenterology",
+        "label": "Cristian Dominguez, MD",
+        "phone": "713-468-2030"
+      },
+      {
+        "physician": "Gastroenterology",
+        "label": "Michael Stavinoha, MD",
+        "phone": "713-869-8200"
+      },
+      {
+        "physician": "Gastroenterology",
+        "label": "Eimile Dalton-Fitzgerald, MD",
+        "phone": "512-448-4588"
+      },
+      {
+        "physician": "Gastroenterology",
+        "label": "Sheila Reddy, MD",
+        "phone": "512-448-4588"
+      }
+    ],
+    "selections": [null, null]
+  },
+  {
+    "id": "General Surgery",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "General Surgery",
+        "label": "Heather Vasser, MD",
+        "phone": "979-732-6552"
+      },
+      {
+        "physician": "General Surgery",
+        "label": "Russell Juno, MD",
+        "phone": "979-968-2700"
+      },
+      {
+        "physician": "General Surgery",
+        "label": "Joseph Cali, MD",
+        "phone": "713-486-4680"
+      },
+      {
+        "physician": "General Surgery",
+        "label": "Andrew Janecki, MD",
+        "phone": "281-394-0266"
+      },
+      {
+        "physician": "General Surgery",
+        "label": "Albert Chorens, MD",
+        "phone": "979-242-5605"
+      },
+      {
+        "physician": "General Surgery",
+        "label": "Daniel White, MD",
+        "phone": "979-242-5605"
+      },
+      {
+        "physician": "General Surgery",
+        "label": "Genna Lubrano, MD",
+        "phone": "281-497-0296"
+      },
+      {
+        "physician": "General Surgery",
+        "label": "Steven Thomas, MD",
+        "phone": "281-497-0296"
+      },
+      {
+        "physician": "General Surgery",
+        "label": "Dan White, MD",
+        "phone": "979-242-5065"
+      },
+      {
+        "physician": "General Surgery",
+        "label": "Anant C. Praba, MD",
+        "phone": "979-242-5605"
+      }
+    ],
+    "selections": [null, null]
+  },
+  {
+    "id": "Gynecologic Oncology",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "Gynecologic Oncology",
+        "label": "Tarrik Mohamed Zaid, MD",
+        "phone": "281-275-0880"
+      }
+    ],
+    "selections": [null, null]
+  },
+  {
+    "id": "OB-GYN",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "OB-GYN",
+        "label": "Shannon Juno, MD, FACOG",
+        "phone": "979-968-2700"
+      },
+      {
+        "physician": "OB-GYN",
+        "label": "Kelly E. Wilson, MD",
+        "phone": "713-796-8200"
+      },
+      {
+        "physician": "OB-GYN",
+        "label": "Eslam Elhammady, MD",
+        "phone": "979-733-0095"
+      },
+      {
+        "physician": "OB-GYN",
+        "label": "Cynthia Coyne, MD",
+        "phone": "512-451-3131"
+      },
+      {
+        "physician": "OB-GYN",
+        "label": "Selma Ghazal, MD",
+        "phone": "979-733-0095"
+      }
+    ],
+    "selections": [null, null]
+  },
+  {
+    "id": "Hematology/Oncology",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "Hematology/Oncology",
+        "label": "Bart Pusnik, MD",
+        "phone": "512-308-9024"
+      },
+      {
+        "physician": "Hematology/Oncology",
+        "label": "Nihar K Patel, MD",
+        "phone": "512-341-8724"
+      },
+      {
+        "physician": "Hematology/Oncology",
+        "label": "Bartlomiej Posnik, MD",
+        "phone": "512-308-9024"
+      },
+      {
+        "physician": "Hematology/Oncology",
+        "label": "Mathew R. Meeneghan, MD",
+        "phone": "512-308-9024"
+      },
+      {
+        "physician": "Hematology/Oncology",
+        "label": "Amirali S. Popatia, MD",
+        "phone": "281-344-2273"
+      },
+      {
+        "physician": "Hematology/Oncology",
+        "label": "Jason Melear, MD",
+        "phone": "512-421-4100"
+      },
+      {
+        "physician": "Hematology/Oncology",
+        "label": "Donna M. Weber, MD",
+        "phone": "713-792-2121"
+      },
+      {
+        "physician": "Hematology/Oncology",
+        "label": "Brandon Hsu, MD",
+        "phone": "281-392-2757"
+      }
+    ],
+    "selections": [null, null]
+  },
+  {
+    "id": "Hepatology",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "Hepatology",
+        "label": "Carmen Landaverde, MD",
+        "phone": "512-454-8378"
+      },
+      {
+        "physician": "Hepatology",
+        "label": "Joseph S. Galanti, MD",
+        "phone": "713-794-0700"
+      }
+    ],
+    "selections": [null, null]
+  },
+  {
+    "id": "Interventional Cardiology",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "Interventional Cardiology",
+        "label": "Mark Picone, DO",
+        "phone": "979-242-5677"
+      }
+    ],
+    "selections": [null, null]
+  },
+  {
+    "id": "Liver/Digestive",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "Liver/Digestive",
+        "label": "Cole Thomson, MD",
+        "phone": "713-461-1026"
+      }
+    ],
+    "selections": [null, null]
+  },
+  {
+    "id": "Movement Disorders",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "Movement Disorders",
+        "label": "Georgeta Varga, MD",
+        "phone": "979-725-8545"
+      }
+    ],
+    "selections": [null, null]
+  },
+  {
+    "id": "Nephrology",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "Nephrology",
+        "label": "Anil Chunduri, MD",
+        "phone": "832-437-3856"
+      },
+      {
+        "physician": "Nephrology",
+        "label": "Shalin D Patel, MD",
+        "phone": "281-579-5799"
+      },
+      {
+        "physician": "Nephrology",
+        "label": "Sumiko Armstead, MD",
+        "phone": "281-908-8047"
+      },
+      {
+        "physician": "Nephrology",
+        "label": "Amitabh Shukla, MD",
+        "phone": "281-341-1500"
+      },
+      {
+        "physician": "Nephrology",
+        "label": "Pratima Kamada, MD",
+        "phone": "512-901-4010"
+      }
+    ],
+    "selections": [null, null]
+  },
+  {
+    "id": "Neurology",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "Neurology",
+        "label": "Sadia Yasser, MD",
+        "phone": "281-398-9711"
+      },
+      {
+        "physician": "Neurology",
+        "label": "Byron Neely, MD",
+        "phone": "979-968-6500"
+      },
+      {
+        "physician": "Neurology",
+        "label": "G. Alexander West, MD",
+        "phone": "832-522-8500"
+      },
+      {
+        "physician": "Neurology",
+        "label": "Jamshid Lotfi, MD",
+        "phone": "713-622-7744"
+      },
+      {
+        "physician": "Neurology",
+        "label": "Ankit Patel, MD",
+        "phone": "281-206-2127"
+      },
+      {
+        "physician": "Neurology",
+        "label": "Herbert Edmundson, MD",
+        "phone": "713-772-4600"
+      },
+      {
+        "physician": "Neurology",
+        "label": "Erica Maria Rivas-Rodriguez, MD",
+        "phone": "512-654-1234"
+      }
+    ],
+    "selections": [null, null]
+  },
+  {
+    "id": "Neurosurgery",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "Neurosurgery",
+        "label": "William Francis, MD",
+        "phone": "281-364-9509"
+      },
+      {
+        "physician": "Neurosurgery",
+        "label": "Loyola Gressot, MD",
+        "phone": "713-790-1211"
+      },
+      {
+        "physician": "Neurosurgery",
+        "label": "G. Alexander West, MD",
+        "phone": "832-522-8500"
+      },
+      {
+        "physician": "Neurosurgery",
+        "label": "Ajay Bindal, MD",
+        "phone": "713-752-0001"
+      },
+      {
+        "physician": "Neurosurgery",
+        "label": "John Stokes, MD",
+        "phone": "512-324-3580"
+      },
+      {
+        "physician": "Neurosurgery",
+        "label": "J. Bradley White, MD, PhD",
+        "phone": "979-776-8896"
+      },
+      {
+        "physician": "Neurosurgery",
+        "label": "Kristopher Michael Webb, MD",
+        "phone": "512-654-4550"
+      }
+    ],
+    "selections": [null, null]
+  },
+  {
+    "id": "Oculoplastic Surgery",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "Oculoplastic Surgery",
+        "label": "Emily Bratton, MD",
+        "phone": "512-533-7338"
+      }
+    ],
+    "selections": [null, null]
+  },
+  {
+    "id": "Ophthalmology",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "Ophthalmology",
+        "label": "Arun G. Nayar, MD",
+        "phone": "979-885-0665"
+      },
+      {
+        "physician": "Ophthalmology",
+        "label": "Candice A Jones, OD",
+        "phone": "512-321-3042"
+      },
+      {
+        "physician": "Ophthalmology",
+        "label": "Lambert Duong, MD",
+        "phone": "281-492-6262"
+      },
+      {
+        "physician": "Ophthalmology",
+        "label": "Alice Matoba, MD",
+        "phone": "713-798-6100"
+      },
+      {
+        "physician": "Ophthalmology",
+        "label": "Ben Frankfort, MD",
+        "phone": "713-798-6100"
+      },
+      {
+        "physician": "Ophthalmology",
+        "label": "Mitchell Weikert, MD",
+        "phone": "713-798-6100"
+      },
+      {
+        "physician": "Ophthalmology",
+        "label": "Lori Learned-Burton, MD",
+        "phone": "979-732-5771"
+      },
+      {
+        "physician": "Ophthalmology",
+        "label": "Randolph Whitford, MD",
+        "phone": "281-398-0747"
+      },
+      {
+        "physician": "Ophthalmology",
+        "label": "Emily Tran-Hguyen, MD",
+        "phone": "361-573-4884"
+      },
+      {
+        "physician": "Ophthalmology",
+        "label": "John Wooten, MD",
+        "phone": "979-732-5771"
+      },
+      {
+        "physician": "Ophthalmology",
+        "label": "Peter William Mortensen, MD",
+        "phone": "713-441-8843"
+      },
+      {
+        "physician": "Ophthalmology",
+        "label": "Todd Hovis, MD",
+        "phone": "979-732-5771"
+      },
+      {
+        "physician": "Ophthalmology",
+        "label": "A. Robert Alcasabas, OD",
+        "phone": "361-578-0234"
+      },
+      {
+        "physician": "Ophthalmology",
+        "label": "Shaheen Kavoussi, MD",
+        "phone": "361-578-0234"
+      },
+      {
+        "physician": "Ophthalmology",
+        "label": "Jonathan Welch, MD",
+        "phone": "512-353-1300"
+      },
+      {
+        "physician": "Ophthalmology",
+        "label": "Cheryl Horton, MD",
+        "phone": "979-836-9811"
+      },
+      {
+        "physician": "Ophthalmology",
+        "label": "Catherine Leeny, OD",
+        "phone": "361-578-0234"
+      },
+      {
+        "physician": "Ophthalmology",
+        "label": "Deborah A Thomas, MD",
+        "phone": "979-968-8987"
+      },
+      {
+        "physician": "Ophthalmology",
+        "label": "Caia Homerstad, OD",
+        "phone": "361-578-0234"
+      },
+      {
+        "physician": "Ophthalmology",
+        "label": "Ryan Carter Young, MD",
+        "phone": "512-451-0103"
+      }
+    ],
+    "selections": [null, null]
+  },
+  {
+    "id": "Orthopedic Surgery",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "Orthopedic Surgery",
+        "label": "James Gregory, MD",
+        "phone": "713-486-1700"
+      },
+      {
+        "physician": "Orthopedic Surgery",
+        "label": "Sandy Bahm, MD",
+        "phone": "979-733-0690"
+      },
+      {
+        "physician": "Orthopedic Surgery",
+        "label": "Russell Clark, MD",
+        "phone": "979-242-2387"
+      },
+      {
+        "physician": "Orthopedic Surgery",
+        "label": "Trent Carlyle, MD",
+        "phone": "281-344-1715"
+      },
+      {
+        "physician": "Orthopedic Surgery",
+        "label": "Richard Edeen, MD",
+        "phone": "979-242-2387"
+      },
+      {
+        "physician": "Orthopedic Surgery",
+        "label": "Faranak Vossoughi, MD",
+        "phone": "281-693-4263"
+      },
+      {
+        "physician": "Orthopedic Surgery",
+        "label": "Jerry Followwill, MD",
+        "phone": "361-576-0633"
+      },
+      {
+        "physician": "Orthopedic Surgery",
+        "label": "Vivek Kushwaha, MD",
+        "phone": "713-650-6900"
+      },
+      {
+        "physician": "Orthopedic Surgery",
+        "label": "Rosemary Buckle, MD",
+        "phone": "979-493-7762"
+      },
+      {
+        "physician": "Orthopedic Surgery",
+        "label": "Peter Sabonghy, MD",
+        "phone": "713-486-1700"
+      },
+      {
+        "physician": "Orthopedic Surgery",
+        "label": "Larry Likover, MD",
+        "phone": "713-465-0696"
+      },
+      {
+        "physician": "Orthopedic Surgery",
+        "label": "Michael Perez, MD",
+        "phone": "361-575-7441"
+      },
+      {
+        "physician": "Orthopedic Surgery",
+        "label": "Thomas Burk Rivers, MD",
+        "phone": "281-690-4678"
+      },
+      {
+        "physician": "Orthopedic Surgery",
+        "label": "Casey Taber, MD",
+        "phone": "210-804-5460"
+      },
+      {
+        "physician": "Orthopedic Surgery",
+        "label": "Enrique Pena, MD",
+        "phone": "512-324-3582"
+      },
+      {
+        "physician": "Orthopedic Surgery",
+        "label": "Jonathan Blake",
+        "phone": "979-242-2387"
+      },
+      {
+        "physician": "Orthopedic Surgery",
+        "label": "Peter M Garcia, MD",
+        "phone": "512-439-1005"
+      }
+    ],
+    "selections": [null, null]
+  },
+  {
+    "id": "Pain Management",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "Pain Management",
+        "label": "Derrick Chute Wansom, MD",
+        "phone": "512-953-8130"
+      },
+      {
+        "physician": "Pain Management",
+        "label": "Sebastian Villarreal, MD",
+        "phone": "281-665-8552"
+      },
+      {
+        "physician": "Pain Management",
+        "label": "Jared Dean Anderson, MD",
+        "phone": "979-207-4000"
+      },
+      {
+        "physician": "Pain Management",
+        "label": "Nimish Dave, MD",
+        "phone": "281-727-0076"
+      },
+      {
+        "physician": "Pain Management",
+        "label": "Ted Lin, MD",
+        "phone": "281-240-4300"
+      },
+      {
+        "physician": "Pain Management",
+        "label": "Mihnea Dumitrescu, MD",
+        "phone": "512-892-0490"
+      },
+      {
+        "physician": "Pain Management",
+        "label": "Kenneth Wu, MD",
+        "phone": "713-714-1399"
+      },
+      {
+        "physician": "Pain Management",
+        "label": "Clayton Adams, MD",
+        "phone": "512-244-4272"
+      },
+      {
+        "physician": "Pain Management",
+        "label": "Marcus Parker, MD",
+        "phone": "832-437-3688"
+      }
+    ],
+    "selections": [null, null]
+  },
+  {
+    "id": "Physical Medicine & Rehab.",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "Physical Medicine & Rehab.",
+        "label": "Mark V. Queralt, MD",
+        "phone": "833-882-2737"
+      }
+    ],
+    "selections": [null, null]
+  },
+  {
+    "id": "Plastic Surgery",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "Plastic Surgery",
+        "label": "Victor Hassid, MD",
+        "phone": "713-563-9600"
+      }
+    ],
+    "selections": [null, null]
+  },
+  {
+    "id": "Podiatry",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "Podiatry",
+        "label": "Andrew Young, DPM",
+        "phone": "361-578-2777"
+      },
+      {
+        "physician": "Podiatry",
+        "label": "Paul Gee, DPM",
+        "phone": "979-725-8545"
+      },
+      {
+        "physician": "Podiatry",
+        "label": "Walter W Strash, DPM",
+        "phone": "210-829-8798"
+      },
+      {
+        "physician": "Podiatry",
+        "label": "Arush Angirasa, DPM",
+        "phone": "979-242-5677"
+      },
+      {
+        "physician": "Podiatry",
+        "label": "Christopher Correa, MD",
+        "phone": "979-836-2992"
+      },
+      {
+        "physician": "Podiatry",
+        "label": "Timmy Pham, DPM",
+        "phone": "979-836-1111"
+      }
+    ],
+    "selections": [null, null]
+  },
+  {
+    "id": "Pulmonology",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "Pulmonology",
+        "label": "Samuel Copeland, MD",
+        "phone": "361-574-1780"
+      },
+      {
+        "physician": "Pulmonology",
+        "label": "Matthew Anderson, MD",
+        "phone": "512-977-0123"
+      },
+      {
+        "physician": "Pulmonology",
+        "label": "Qi-Ming 'Jack' Zho, DO",
+        "phone": "281-398-7954"
+      },
+      {
+        "physician": "Pulmonology",
+        "label": "Paul Bing, MD",
+        "phone": "281-398-7954"
+      },
+      {
+        "physician": "Pulmonology",
+        "label": "Anatoli Krasko, MD",
+        "phone": "832-325-1200"
+      }
+    ],
+    "selections": [null, null]
+  },
+  {
+    "id": "Rheumatology",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "Rheumatology",
+        "label": "Abigail Neiman, MD",
+        "phone": "713-932-0054"
+      },
+      {
+        "physician": "Rheumatology",
+        "label": "Diana Yens, MD",
+        "phone": "512-304-0300"
+      },
+      {
+        "physician": "Rheumatology",
+        "label": "Padma Chimata, MD",
+        "phone": "281-578-7438"
+      },
+      {
+        "physician": "Rheumatology",
+        "label": "Kiran Farheen, MD",
+        "phone": "346-257-4299"
+      },
+      {
+        "physician": "Rheumatology",
+        "label": "Rajpreet Singh, MD",
+        "phone": "979-696-8000"
+      },
+      {
+        "physician": "Rheumatology",
+        "label": "Filemore Tan, MD",
+        "phone": "713-486-3100"
+      },
+      {
+        "physician": "Rheumatology",
+        "label": "Scott Stein, DO",
+        "phone": "361-572-9772"
+      },
+      {
+        "physician": "Rheumatology",
+        "label": "Mohammed Bari, MD",
+        "phone": "281-980-2717"
+      },
+      {
+        "physician": "Rheumatology",
+        "label": "Grace A. Makhloof, MD",
+        "phone": "713-273-5881"
+      },
+      {
+        "physician": "Rheumatology",
+        "label": "Tara Rizvi, MD",
+        "phone": "346-257-4300"
+      },
+      {
+        "physician": "Rheumatology",
+        "label": "Tina Bunch, MD",
+        "phone": "512-346-8888"
+      }
+    ],
+    "selections": [null, null]
+  },
+  {
+    "id": "Urology",
+    "checked": false,
+    "physicians": [
+      {
+        "physician": "Urology",
+        "label": "Ryan Frieben, MD",
+        "phone": "979-732-2376"
+      },
+      {
+        "physician": "Urology",
+        "label": "Colin Dimney, MD",
+        "phone": "713-563-2380"
+      },
+      {
+        "physician": "Urology",
+        "label": "Thomas Smith, MD",
+        "phone": "713-563-2380"
+      },
+      {
+        "physician": "Urology",
+        "label": "David Scott Kent, MD",
+        "phone": "713-830-9100"
+      },
+      {
+        "physician": "Urology",
+        "label": "Christopher Manatt, MD",
+        "phone": "361-573-6351"
+      },
+      {
+        "physician": "Urology",
+        "label": "Ramesh Krishnan, MD",
+        "phone": "713-830-9100"
+      }
+    ],
+    "selections": [null, null]
+  }
+]

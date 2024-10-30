@@ -1,0 +1,94 @@
+{
+  "activities": [
+    {
+      "id": "bathing",
+      "options": [
+        {
+          "id": "independence",
+          "description": "Bathes self completely or needs help in bathing only a single part of the body such as the back, genital area or disabled extremity."
+        },
+        {
+          "id": "dependence",
+          "description": "Needs help with bathing more than one part of the body, getting in or out of the tub or shower. Requires total bathing."
+        }
+      ],
+      "checked": false
+    },
+    {
+      "id": "dressing",
+      "options": [
+        {
+          "id": "independence",
+          "description": "Gets clothes from closets and drawers and puts on clothes and outer garments complete with fasteners. May have help tying shoes."
+        },
+        {
+          "id": "dependence",
+          "description": "Needs help with dressing self or needs to be completely dressed."
+        }
+      ],
+      "checked": false
+    },
+    {
+      "id": "toileting",
+      "options": [
+        {
+          "id": "independence",
+          "description": "Goes to toilet, gets on and off, arranges clothes, cleans genital area without help."
+        },
+        {
+          "id": "dependence",
+          "description": "Needs help transferring to the toilet, cleaning self or uses bedpan or commode."
+        }
+      ],
+      "checked": false
+    },
+    {
+      "id": "transferring",
+      "options": [
+        {
+          "id": "independence",
+          "description": "Moves in and out of bed or chair unassisted. Mechanical transferring aides are acceptable."
+        },
+        {
+          "id": "dependence",
+          "description": "Needs help in moving from bed to chair or requires a complete transfer."
+        }
+      ],
+      "checked": false
+    },
+    {
+      "id": "continence",
+      "options": [
+        {
+          "id": "independence",
+          "description": "Exercises complete self control over urination and defecation."
+        },
+        {
+          "id": "dependence",
+          "description": "Is partially or totally incontinent of bowel or bladder."
+        }
+      ],
+      "checked": false
+    },
+    {
+      "id": "feeding",
+      "options": [
+        {
+          "id": "independence",
+          "description": "Gets food from plate into mouth without help. Preparation of food may be done by another person."
+        },
+        {
+          "id": "dependence",
+          "description": "Needs partial or total help with feeding or requires parenteral feeding."
+        }
+      ],
+      "checked": false
+    }
+  ],
+  "result": {
+    "high": "High (patient independent)",
+    "low": "Low (patient very dependent)"
+  },
+  "total": 0
+}
+

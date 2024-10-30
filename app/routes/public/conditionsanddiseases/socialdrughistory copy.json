@@ -1,0 +1,320 @@
+[
+  {
+    "id": "alcohol",
+    "questions": [
+      {
+        "id": "currentuse",
+        "description": "I currently use alcohol.",
+        "value": ""
+      },
+      {
+        "id": "pastuse",
+        "description": "I, in the past, used alcohol.",
+        "value": ""
+      },
+      {
+        "id": "dailycurrentuse",
+        "description": "How many times per day do you use alcohol?",
+        "value": 0
+      },
+      {
+        "id": "dailypastuse",
+        "description": "How many times per day did you use alcohol?",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "id": "smoking",
+    "questions": [
+      {
+        "id": "currentuse",
+        "description": "I currently smoke.",
+        "value": ""
+      },
+      {
+        "id": "pastuse",
+        "description": "I, in the past, smoked.",
+        "value": ""
+      },
+      {
+        "id": "dailycurrentuse",
+        "description": "How many packs per day do you smoke?",
+        "value": 0
+      },
+      {
+        "id": "dailypastuse",
+        "description": "How many packs per day did you smoke?",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "id": "marijuana",
+    "questions": [
+      {
+        "id": "currentuse",
+        "description": "I currently use marijuana.",
+        "value": false
+      },
+      {
+        "id": "pastuse",
+        "description": "I, in the past, used marijuana.",
+        "value": false
+      },
+      {
+        "id": "everattemptedtostop",
+        "description": "Ever attempted to stop?",
+        "value": [
+          {
+            "id": "has never tried to stop",
+            "value": false
+          },
+          {
+            "id": "once",
+            "value": false
+          },
+          {
+            "id": "twice",
+            "value": false
+          },
+          {
+            "id": "three times",
+            "value": false
+          },
+          {
+            "id": "numerous times",
+            "value": false
+          },
+          {
+            "id": "successfully",
+            "value": false
+          },
+          {
+            "id": "with varying success",
+            "value": false
+          },
+          {
+            "id": "without success",
+            "value": false
+          }
+        ]
+      },
+      {
+        "id": "inrehabbefore",
+        "description": "In rehab before?",
+        "value": [
+          {
+            "id": "no",
+            "value": false
+          },
+          {
+            "id": "yes, completed",
+            "value": false
+          },
+          {
+            "id": "yes, did not complete",
+            "value": false
+          },
+          {
+            "id": "yes, but failed",
+            "value": false
+          }
+        ]
+      },
+      {
+        "id": "hospitalizedforoverdose",
+        "description": "Hospitalized for overdose?",
+        "value": [
+          {
+            "id": "never",
+            "value": false
+          },
+          {
+            "id": "yes",
+            "value": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cocaine",
+    "questions": [
+      {
+        "id": "currentuse",
+        "description": "I currently use cocaine.",
+        "value": false
+      },
+      {
+        "id": "pastuse",
+        "description": "I, in the past, used cocaine.",
+        "value": false
+      },
+      {
+        "id": "everattemptedtostop",
+        "description": "Ever attempted to stop?",
+        "value": [
+          {
+            "id": "has never tried to stop",
+            "value": false
+          },
+          {
+            "id": "once",
+            "value": false
+          },
+          {
+            "id": "twice",
+            "value": false
+          },
+          {
+            "id": "three times",
+            "value": false
+          },
+          {
+            "id": "numerous times",
+            "value": false
+          },
+          {
+            "id": "successfully",
+            "value": false
+          },
+          {
+            "id": "with varying success",
+            "value": false
+          },
+          {
+            "id": "without success",
+            "value": false
+          }
+        ]
+      },
+      {
+        "id": "inrehabbefore",
+        "description": "In rehab before?",
+        "value": [
+          {
+            "id": "no",
+            "value": false
+          },
+          {
+            "id": "yes, completed",
+            "value": false
+          },
+          {
+            "id": "yes, did not complete",
+            "value": false
+          },
+          {
+            "id": "yes, but failed",
+            "value": false
+          }
+        ]
+      },
+      {
+        "id": "hospitalizedforoverdose",
+        "description": "Hospitalized for overdose?",
+        "value": [
+          {
+            "id": "never",
+            "value": false
+          },
+          {
+            "id": "yes",
+            "value": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "heroin",
+    "questions": [
+      {
+        "id": "currentuse",
+        "description": "I currently use heroin.",
+        "value": false
+      },
+      {
+        "id": "pastuse",
+        "description": "I, in the past, used heroin.",
+        "value": false
+      },
+      {
+        "id": "everattemptedtostop",
+        "description": "Ever attempted to stop?",
+        "value": [
+          {
+            "id": "has never tried to stop",
+            "value": false
+          },
+          {
+            "id": "once",
+            "value": false
+          },
+          {
+            "id": "twice",
+            "value": false
+          },
+          {
+            "id": "three times",
+            "value": false
+          },
+          {
+            "id": "numerous times",
+            "value": false
+          },
+          {
+            "id": "successfully",
+            "value": false
+          },
+          {
+            "id": "with varying success",
+            "value": false
+          },
+          {
+            "id": "without success",
+            "value": false
+          }
+        ]
+      },
+      {
+        "id": "inrehabbefore",
+        "description": "In rehab before?",
+        "value": [
+          {
+            "id": "no",
+            "value": false
+          },
+          {
+            "id": "yes, completed",
+            "value": false
+          },
+          {
+            "id": "yes, did not complete",
+            "value": false
+          },
+          {
+            "id": "yes, but failed",
+            "value": false
+          }
+        ]
+      },
+      {
+        "id": "hospitalizedforoverdose",
+        "description": "Hospitalized for overdose?",
+        "value": [
+          {
+            "id": "never",
+            "value": false
+          },
+          {
+            "id": "yes",
+            "value": false
+          }
+        ]
+      }
+    ]
+  }
+]
+

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "patientHeight",
+    "value": 0
+  },
+  {
+    "id": "patientWeight",
+    "value": 0
+  },
+  {
+    "id": "patientBMI",
+    "value": 0
+  },
+  {
+    "id": "patientBloodPressure",
+    "value": 0
+  },
+  {
+    "id": "GFR",
+    "value": 0
+  },
+  {
+    "id": "patientGender",
+    "value": 2
+  },
+  {
+    "id": "visualAcuity",
+    "value": 0
+  }
+]

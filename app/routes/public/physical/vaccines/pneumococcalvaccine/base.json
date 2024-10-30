@@ -1,0 +1,16 @@
+{
+  "id": "pneumococcal",
+  "invalidAge": true,
+  "ageRange": "",
+  "checked": false,
+  "versions": [
+  ],
+  "fourmonthstosixmonths": null,
+  "sevenmonthstoelevenmonths": null,
+  "twelvemonthstotwentythreemonths": null,
+  "twentyfourmonthstofiftyninemonths": null,
+  "sixtoeighteen": null,
+  "nineteentosixtyfour": null,
+  "sixtyfiveandup": null
+}
+

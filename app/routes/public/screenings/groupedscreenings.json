@@ -1,0 +1,43 @@
+[
+  {
+    "id": "Colon/Cancer",
+    "checked": false,
+    "radioButtonValue": null,
+    "radioOptions": [
+      {
+        "id": "Colonoscopy",
+		"type": "radiooptions",
+		"parentId": "Colon/Cancer",
+        "toggleButtonValue": "",
+        "toggleOptions": [
+          {
+            "id": "PRN"
+          },
+          {
+            "id": "DUE NOW"
+          }
+        ],
+		"linkChecked": true,
+        "dateReceived": null,
+        "dateDue": null
+      },
+      {
+        "id": "Hemoccult test",
+		"type": "radiooptions",
+		"parentId": "Colon/Cancer",
+		"toggleButtonValue": "",
+        "toggleOptions": [
+          {
+            "id": "PRN"
+          },
+          {
+            "id": "DUE NOW"
+          }
+        ],
+		"linkChecked": true,
+        "dateReceived": null,
+        "dateDue": null
+      }
+    ]
+  }
+]

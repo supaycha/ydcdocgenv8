@@ -1,0 +1,845 @@
+[
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Levaquin",
+    "amount": 500,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Amoxicillin",
+    "amount": 875,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_parts",
+    "checked": false,
+    "id": "Augmentin",
+    "amount1": 875,
+    "amount2": 125,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Macrobid",
+    "amount": 100,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Fluconazole",
+    "amount": 150,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Minocycline",
+    "amount": 100,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_parts",
+    "checked": false,
+    "id": "Bactrim DS",
+    "amount1": 800,
+    "amount2": 160,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Metformin",
+    "amount": 500,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Glyburide",
+    "amount": 5,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Glipizide",
+    "amount": 5,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Januvia",
+    "amount": 25,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "notbydose",
+    "checked": false,
+    "id": "Lantus",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "notbydose",
+    "checked": false,
+    "id": "Humulin R",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "notbydose",
+    "checked": false,
+    "id": "Humulin 70/30",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "notbydose",
+    "checked": false,
+    "id": "Humulin N",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "notbydose",
+    "checked": false,
+    "id": "Novolin R",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "notbydose",
+    "checked": false,
+    "id": "Novolin 70/30",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "notbydose",
+    "checked": false,
+    "id": "Novolin N",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Lexapro",
+    "amount": 20,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Celexa",
+    "amount": 20,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Citalopram",
+    "amount": 10,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Effexor XR",
+    "amount": 37.5,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "notbydose",
+    "checked": false,
+    "id": "Bupropion",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Clonazepam",
+    "amount": 0.5,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Pantoprazole",
+    "amount": 20,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Pantoprazole",
+    "amount": 40,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Omeprazole",
+    "amount": 20,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Omeprazole",
+    "amount": 40,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Nexium",
+    "amount": 20,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Nexium",
+    "amount": 40,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Prednisone",
+    "amount": 20,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "notbydose",
+    "checked": false,
+    "id": "Triamcinolone 0.5%",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Vitamin D3",
+    "amount": 2000,
+    "unit": "IU",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Vitamin D2",
+    "amount": 50000,
+    "unit": "IU",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Vitamin B12",
+    "amount": 250,
+    "unit": "mcg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Metoprolol Succinate",
+    "amount": 25,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Metoprolol Tartrate",
+    "amount": 25,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Benazepril",
+    "amount": 5,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Lisinopril",
+    "amount": 5,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Coreg",
+    "amount": 12.5,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Hydralazine",
+    "amount": 50,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "HCTZ",
+    "amount": 25,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Furosemide",
+    "amount": 20,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Amlodipine",
+    "amount": 5,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Simvastatin",
+    "amount": 10,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Atorvastatin",
+    "amount": 10,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Rosuvastatin",
+    "amount": 10,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Tramadol",
+    "amount": 50,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_parts",
+    "checked": false,
+    "id": "Hydrocodone-Acetaminophen",
+    "amount1": 5,
+    "amount2": 325,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Meloxicam",
+    "amount": 15,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Adderall",
+    "amount": 20,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Adderall XR",
+    "amount": 30,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Adderall XR",
+    "amount": 20,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Vyvanse",
+    "amount": 60,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Phentermine",
+    "amount": 15,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Phentermine",
+    "amount": 37.5,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Trazodone",
+    "amount": 50,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Flexeril",
+    "amount": 10,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Potassium Chloride",
+    "amount": 10,
+    "unit": "meq",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Potassium Chloride",
+    "amount": 20,
+    "unit": "meq",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Antivert Meclizine",
+    "amount": 25,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Antivert Meclizine",
+    "amount": 50,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Promethazine (Phenergan)",
+    "amount": 25,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Promethazine (Phenergan)",
+    "amount": 50,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Zofran",
+    "amount": 4,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  },
+  {
+    "type": "bydose_whole",
+    "checked": false,
+    "id": "Zofran",
+    "amount": 8,
+    "unit": "mg",
+    "selectedoption": "same",
+    "options": [
+      "new",
+      "changed",
+      "same"
+    ]
+  }
+]

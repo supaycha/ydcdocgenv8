@@ -1,0 +1,217 @@
+{
+  "total": 0,
+  "activities": [
+    {
+      "id": "Ability to use telephone",
+      "femaleonly": false,
+      "selectedvalue": 0,
+      "options": [
+        {
+          "description": "Operates telephone on own initiative-looks up and dials numbers, etc.",
+          "value": 1,
+          "checked": false
+        },
+        {
+          "description": "Dials a few well-known numbers",
+          "value": 1,
+          "checked": false
+        },
+        {
+          "description": "Answers telephone but does not dial",
+          "value": 1,
+          "checked": false
+        },
+        {
+          "description": "Does not use telephone at all",
+          "value": 0,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "id": "Shopping",
+      "femaleonly": false,
+      "selectedvalue": 0,
+      "options": [
+        {
+          "description": "Takes care of all shopping needs independently",
+          "value": 1,
+          "checked": false
+        },
+        {
+          "description": "Shops independently for small purchases",
+          "value": 0,
+          "checked": false
+        },
+        {
+          "description": "Needs to be accompanied on any shopping trip",
+          "value": 0,
+          "checked": false
+        },
+        {
+          "description": "Completely unable to shop",
+          "value": 0,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "id": "Food preparation",
+      "femaleonly": true,
+      "selectedvalue": 0,
+      "options": [
+        {
+          "description": "Plans, prepares and serves adequate meals independently",
+          "value": 1,
+          "checked": false
+        },
+        {
+          "description": "Prepares adequate meals if supplied with ingredients",
+          "value": 0,
+          "checked": false
+        },
+        {
+          "description": "Heats, serves and prepares meals, or prepares meals, or prepares meals but does not maintain adequate diet",
+          "value": 0,
+          "checked": false
+        },
+        {
+          "description": "Needs to have meals prepared and served",
+          "value": 0,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "id": "Housekeeping",
+      "femaleonly": true,
+      "selectedvalue": 0,
+      "options": [
+        {
+          "description": "Maintains house alone or with occasional assistance (e.g. 'heavy work domestic help')",
+          "value": 1,
+          "checked": false
+        },
+        {
+          "description": "Performs light daily tasks such as dish washing, bed making",
+          "value": 1,
+          "checked": false
+        },
+        {
+          "description": "Performs light daily tasks but cannot maintain acceptable level of cleanliness",
+          "value": 1,
+          "checked": false
+        },
+        {
+          "description": "Needs help with all home maintenance tasks",
+          "value": 1,
+          "checked": false
+        },
+        {
+          "description": "Does not participate in any housekeeping tasks",
+          "value": 0,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "id": "Laundry",
+      "femaleonly": true,
+      "selectedvalue": 0,
+      "options": [
+        {
+          "description": "Does personal laundry completely",
+          "value": 1,
+          "checked": false
+        },
+        {
+          "description": "Launders small items-rinses stockings, etc.",
+          "value": 1,
+          "checked": false
+        },
+        {
+          "description": "All laundry must be done by others",
+          "value": 0,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "id": "Mode of transportation",
+      "femaleonly": false,
+      "selectedvalue": 0,
+      "options": [
+        {
+          "description": "Travels independently on public transportation or drives own car",
+          "value": 1,
+          "checked": false
+        },
+        {
+          "description": "Arranges own travel via taxi, but does not otherwise use public transportation",
+          "value": 1,
+          "checked": false
+        },
+        {
+          "description": "Travels on public transportation when accompanied by another",
+          "value": 1,
+          "checked": false
+        },
+        {
+          "description": "Travel limited to taxi or automobile with assistance of another",
+          "value": 0,
+          "checked": false
+        },
+        {
+          "description": "Does not travel at all",
+          "value": 0,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "id": "Responsibility for own medications",
+      "femaleonly": false,
+      "selectedvalue": 0,
+      "options": [
+        {
+          "description": "Is responsible for taking medication in correct dosages at correct time",
+          "value": 1,
+          "checked": false
+        },
+        {
+          "description": "Takes responsibility if medication is prepared in advance in separate dosage",
+          "value": 0,
+          "checked": false
+        },
+        {
+          "description": "Is not capable of dispensing own medication",
+          "value": 0,
+          "checked": false
+        }
+      ]
+    },
+    {
+      "id": "Ability to handle finances",
+      "femaleonly": false,
+      "selectedvalue": 0,
+      "options": [
+        {
+          "description": "Manages financial matters independently (budgets, writes checks, pays rent, bills, goes to bank), collects and keeps track of income",
+          "value": 1,
+          "checked": false
+        },
+        {
+          "description": "Manages day-to-day purchases, but needs help with banking, major purchases, etc.",
+          "value": 1,
+          "checked": false
+        },
+        {
+          "description": "Incapable of handling money",
+          "value": 0,
+          "checked": false
+        }
+      ]
+    }
+  ]
+}
+

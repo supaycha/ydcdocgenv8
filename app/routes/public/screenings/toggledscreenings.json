@@ -1,0 +1,22 @@
+[
+  {
+    "id": "PAP smear",
+    "type": "toggledscreening",
+    "checked": false,
+	"linkChecked": true,
+    "toggleButtonValue": "",
+    "toggleOptions": [
+      {
+        "id": "PRN"
+      },
+      {
+        "id": "HYSTERECTOMY"
+      }
+    ],
+    "gender": 2,
+    "dateReceived": null,
+    "dateDue": null,
+    "dateUnknown": false,
+    "datePerformed": null
+  }
+]
